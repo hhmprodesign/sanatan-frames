@@ -1,53 +1,27 @@
 {
   "categories": [
     {
-      "id": "diwali",
-      "title": "Diwali",
+      "id": "navratri",
+      "titleEnglish": "Navratri",
+      "titleHindi": "नवरात्रि",
       "frames": [
         {
-          "id": "diwali_1",
-          "title": "Happy Diwali Lights",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri1.png"
+          "id": "navratri_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri1.png",
+          "tags": ["festival", "maaDurga", "wishes"]
         },
         {
-          "id": "diwali_2",
-          "title": "Diwali Diyas",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri2.png"
-        }
+          "id": "navratri_2",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri2.png",
+          "tags": ["festival", "maaDurga", "wishes"]
+        },
+        {
+          "id": "navratri_3",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri3.png",
+          "tags": ["festival", "maaDurga", "wishes"]
+        },
+        
       ]
     },
-    {
-      "id": "good_morning",
-      "title": "Good Morning",
-      "frames": [
-        {
-          "id": "gm_1",
-          "title": "Good Morning Flowers",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri3.png"
-        }
-      ]
-    },
-    {
-      "id": "hanuman",
-      "title": "Hanuman Ji",
-      "frames": [
-        {
-          "id": "hanuman_1",
-          "title": "Jai Hanuman",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri1.png"
-        }
-      ]
-    },
-    {
-      "id": "ram",
-      "title": "Ram Ji",
-      "frames": [
-        {
-          "id": "ram_1",
-          "title": "Jai Shri Ram",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri1.png"
-        }
-      ]
-    }
   ]
 }
