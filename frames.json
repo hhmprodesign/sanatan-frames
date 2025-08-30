@@ -1,0 +1,53 @@
+{
+  "categories": [
+    {
+      "id": "diwali",
+      "title": "Diwali",
+      "frames": [
+        {
+          "id": "diwali_1",
+          "title": "Happy Diwali Lights",
+          "imageUrl": "https://raw.githubusercontent.com/<username>/frames-app/main/frames/diwali/diwali1.png"
+        },
+        {
+          "id": "diwali_2",
+          "title": "Diwali Diyas",
+          "imageUrl": "https://raw.githubusercontent.com/<username>/frames-app/main/frames/diwali/diwali2.png"
+        }
+      ]
+    },
+    {
+      "id": "good_morning",
+      "title": "Good Morning",
+      "frames": [
+        {
+          "id": "gm_1",
+          "title": "Good Morning Flowers",
+          "imageUrl": "https://raw.githubusercontent.com/<username>/frames-app/main/frames/good_morning/gm1.png"
+        }
+      ]
+    },
+    {
+      "id": "hanuman",
+      "title": "Hanuman Ji",
+      "frames": [
+        {
+          "id": "hanuman_1",
+          "title": "Jai Hanuman",
+          "imageUrl": "https://raw.githubusercontent.com/<username>/frames-app/main/frames/hanuman/hanuman1.png"
+        }
+      ]
+    },
+    {
+      "id": "ram",
+      "title": "Ram Ji",
+      "frames": [
+        {
+          "id": "ram_1",
+          "title": "Jai Shri Ram",
+          "imageUrl": "https://raw.githubusercontent.com/<username>/frames-app/main/frames/ram/ram1.png"
+        }
+      ]
+    }
+  ]
+}
