@@ -21,6 +21,19 @@
           "tags": ["festival", "maaDurga", "wishes"]
         }
       ]
+    },
+    {
+      "id": "aaj_ke_darshan",
+      "titleEnglish": "Aaj ke Darshan",
+      "titleHindi": "आज के दर्शन",
+      "frames": [
+        {
+          "id": "aaj_ke_darshan_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/aaj_ke_darshan/aaj_ke_darshan_somnath.png",
+          "tags": ["somnath", "aajkedarshan"]
+        }
+      ]
     }
+
   ]
 }
