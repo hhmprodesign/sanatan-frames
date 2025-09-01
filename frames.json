@@ -8,17 +8,17 @@
         {
           "id": "navratri_1",
           "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri1.png",
-          "tags": ["festival", "maaDurga", "wishes"]
+          "tags": ["festival", "maaDurga", "wishes", "नवरात्रि", "navratri"]
         },
         {
           "id": "navratri_2",
           "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri2.png",
-          "tags": ["festival", "maaDurga", "wishes"]
+          "tags": ["festival", "maaDurga", "wishes", "नवरात्रि", "navratri"]
         },
         {
           "id": "navratri_3",
           "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri3.png",
-          "tags": ["festival", "maaDurga", "wishes"]
+          "tags": ["festival", "maaDurga", "wishes", "नवरात्रि", "navratri"]
         }
       ]
     },
@@ -30,11 +30,142 @@
         {
           "id": "aaj_ke_darshan_1",
           "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/aaj_ke_darshan/aaj_ke_darshan_somnath.png",
-          "tags": ["somnath", "aajkedarshan"]
+          "tags": ["somnath", "aajkedarshan","आज के दर्शन"]
         }
 
       ]
+    },
+    {
+      "id": "diwali",
+      "titleEnglish": "Diwali",
+      "titleHindi": "दिवाली",
+      "frames": [
+        {
+          "id": "diwali_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali1.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_2",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali2.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_6",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali6.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_7",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali7.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_8",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali8.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_9",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali9.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_10",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali10.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_11",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali11.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_12",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali12.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_13",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali13.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_28",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali28.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_29",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali29.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_30",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali30.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_31",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali31.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_32",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali32.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_33",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali33.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_34",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali34.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_35",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali35.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_36",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali36.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_37",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali37.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_38",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali38.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_39",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali39.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_40",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali40.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_41",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali41.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        },
+        {
+          "id": "diwali_42",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/diwali/diwali42.jpg",
+          "tags": ["diwali", "wishes", "deepawali", "दिवाली"]
+        }
+      ]
     }
-
   ]
 }
