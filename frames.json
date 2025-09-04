@@ -7,30 +7,75 @@
       "frames": [
         {
           "id": "navratri_1",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri1.png",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri1.jpg",
           "tags": ["festival", "maaDurga", "wishes", "नवरात्रि", "navratri"]
         },
         {
           "id": "navratri_2",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri2.png",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri2.jpg",
           "tags": ["festival", "maaDurga", "wishes", "नवरात्रि", "navratri"]
         },
         {
-          "id": "navratri_3",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri3.png",
+          "id": "navratri_4",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri4.png",
+          "tags": ["festival", "maaDurga", "wishes", "नवरात्रि", "navratri"]
+        },
+        {
+          "id": "navratri_5",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri5.png",
+          "tags": ["festival", "maaDurga", "wishes", "नवरात्रि", "navratri"]
+        },
+        {
+          "id": "navratri_6",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri6.jpg",
+          "tags": ["festival", "maaDurga", "wishes", "नवरात्रि", "navratri"]
+        },
+        {
+          "id": "navratri_7",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri7.jpg",
+          "tags": ["festival", "maaDurga", "wishes", "नवरात्रि", "navratri"]
+        },
+        {
+          "id": "navratri_8",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri8.jpg",
+          "tags": ["festival", "maaDurga", "wishes", "नवरात्रि", "navratri"]
+        },
+        {
+          "id": "navratri_9",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri9.jpg",
+          "tags": ["festival", "maaDurga", "wishes", "नवरात्रि", "navratri"]
+        },
+        {
+          "id": "navratri_10",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri10.png",
+          "tags": ["festival", "maaDurga", "wishes", "नवरात्रि", "navratri"]
+        },
+        {
+          "id": "navratri_11",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri11.png",
+          "tags": ["festival", "maaDurga", "wishes", "नवरात्रि", "navratri"]
+        },
+        {
+          "id": "navratri_12",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri12.png",
           "tags": ["festival", "maaDurga", "wishes", "नवरात्रि", "navratri"]
         }
       ]
     },
     {
-      "id": "aaj_ke_darshan",
-      "titleEnglish": "Aaj ke Darshan",
-      "titleHindi": "आज के दर्शन",
+      "id": "darshan",
+      "titleEnglish": "Darshan",
+      "titleHindi": "दर्शन",
       "frames": [
         {
-          "id": "aaj_ke_darshan_1",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/aaj_ke_darshan/aaj_ke_darshan_somnath.png",
-          "tags": ["somnath", "aajkedarshan","आज के दर्शन", "shiv"]
+          "id": "darshan_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/darshan/mahakalji.png",
+          "tags": ["mahakal", "darshan","दर्शन", "shiv"]
+        },
+        {
+          "id": "darshan_2",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/darshan/somnathji.png",
+          "tags": ["somnath", "darshan","दर्शन", "shiv"]
         }
 
       ]
