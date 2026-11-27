@@ -1,0 +1,1244 @@
+{
+  "metadata": {
+    "year": 2025,
+    "verified": true,
+    "source": "Bundled app data (hand-curated)"
+  },
+  "english": {
+    "January 2025": {
+      "01": [
+        "Chandra Darshan"
+      ],
+      "06": [
+        "Guru Gobind Singh Ji Birthday"
+      ],
+      "10": [
+        "Paush Putrada Ekadashi"
+      ],
+      "11": [
+        "Pradosh Vrat"
+      ],
+      "13": [
+        "Shakambhari Purnima",
+        "Paush Purnima",
+        "Lohri"
+      ],
+      "14": [
+        "Makar Sankranti",
+        "Pongal",
+        "Ishti"
+      ],
+      "17": [
+        "Sankata Chauth",
+        "Lambodar Sankashti Chaturthi"
+      ],
+      "21": [
+        "Hemu Kalani Martyrdom Day"
+      ],
+      "25": [
+        "Shattila Ekadashi"
+      ],
+      "27": [
+        "Pradosh Vrat"
+      ],
+      "29": [
+        "Mauni Amavasya",
+        "Magh Amavasya"
+      ],
+      "30": [
+        "Magh Gupt Navratri",
+        "Chandra Darshan"
+      ]
+    },
+    "February 2025": {
+      "03": [
+        "Vasant Panchami"
+      ],
+      "04": [
+        "Rath/ Achala Saptami",
+        "Narmada Jayanti"
+      ],
+      "05": [
+        "Bhishma Ashtami"
+      ],
+      "06": [
+        "Mahananda Navami",
+        "Gupt Navratri End"
+      ],
+      "08": [
+        "Jaya Ekadashi"
+      ],
+      "10": [
+        "Pradosh Vrat",
+        "Vishwakarma Jayanti"
+      ],
+      "12": [
+        "Kumbh Sankranti",
+        "Magh Purnima",
+        "Ravidas Jayanti"
+      ],
+      "16": [
+        "Dwijapriya Sankashti Chaturthi"
+      ],
+      "19": [
+        "Chhatrapati Shivaji Jayanti"
+      ],
+      "20": [
+        "Shabari Jayanti",
+        "Sit Ashtami"
+      ],
+      "24": [
+        "Vijaya Ekadashi"
+      ],
+      "25": [
+        "Pradosh Vrat"
+      ],
+      "26": [
+        "Maha Shivaratri",
+        "Eklavya Jayanti"
+      ],
+      "27": [
+        "Phalgun Amavasya"
+      ]
+    },
+    "March 2025": {
+      "01": [
+        "Phulera Dooj",
+        "Chandra Darshan"
+      ],
+      "10": [
+        "Amalaki Ekadashi"
+      ],
+      "11": [
+        "Pradosh Vrat"
+      ],
+      "13": [
+        "Holika Dahan"
+      ],
+      "16": [
+        "Bhai Dooj"
+      ],
+      "17": [
+        "Bhalchandra Sankashti Chaturthi"
+      ],
+      "18": [
+        "Todarmal Jayanti"
+      ],
+      "19": [
+        "Rang Panchami"
+      ],
+      "20": [
+        "Virangana Avanti Bai Balidan Diwas"
+      ],
+      "21": [
+        "Bhanu Saptami"
+      ],
+      "22": [
+        "Sheetla Ashtami",
+        "Basoda"
+      ],
+      "25": [
+        "Papmochani Ekadashi",
+        "Karma Jayanti"
+      ],
+      "27": [
+        "Pradosh Vrat"
+      ],
+      "29": [
+        "Solar Eclipse (Partial)",
+        "Chaitra Amavasya"
+      ],
+      "31": [
+        "Bhagwan Minesh Jayanti",
+        "Gauri Puja",
+        "Gangaur"
+      ]
+    },
+    "April 2025": {
+      "02": [
+        "Nishadraj Jayanti"
+      ],
+      "05": [
+        "Durga Ashtami",
+        "Maha Ashtami"
+      ],
+      "06": [
+        "Shri Ram Navami"
+      ],
+      "08": [
+        "Kamada Ekadashi"
+      ],
+      "10": [
+        "Pradosh Vrat",
+        "Mahavir Jayanti"
+      ],
+      "11": [
+        "Mahatma Jyotiba Phule Jayanti"
+      ],
+      "12": [
+        "Hanuman Jayanti",
+        "Chaitra Purnima"
+      ],
+      "14": [
+        "Vaisakhi"
+      ],
+      "16": [
+        "Vikat Sankashti Chaturthi"
+      ],
+      "18": [
+        "Good Friday",
+        "Guru Tegh Bahadur Jayanti"
+      ],
+      "20": [
+        "Guru Arjun Dev Jayanti"
+      ],
+      "24": [
+        "Varuthini Ekadashi",
+        "Vallabhacharya Jayanti"
+      ],
+      "25": [
+        "Pradosh Vrat",
+        "Sen Jayanti"
+      ],
+      "27": [
+        "Satubai Amavasya",
+        "Vaishakh Amavasya"
+      ],
+      "30": [
+        "Akshaya Tritiya",
+        "Bhagwan Parshuram Jayanti"
+      ]
+    },
+    "May 2025": {
+      "02": [
+        "Shankaracharya Jayanti"
+      ],
+      "04": [
+        "Ganga Saptami"
+      ],
+      "06": [
+        "Janki Jayanti"
+      ],
+      "08": [
+        "Mohini Ekadashi"
+      ],
+      "09": [
+        "Pradosh Vrat"
+      ],
+      "11": [
+        "Narasimha Jayanti"
+      ],
+      "12": [
+        "Kurma Jayanti",
+        "Buddha Purnima",
+        "Vaishakh Purnima"
+      ],
+      "14": [
+        "Vrishabha Sankranti"
+      ],
+      "15": [
+        "Kevat Jayanti"
+      ],
+      "16": [
+        "Ekadant Sankashti Chaturthi"
+      ],
+      "23": [
+        "Apara/Achala Ekadashi"
+      ],
+      "24": [
+        "Pradosh Vrat"
+      ],
+      "26": [
+        "Vat Savitri Vrat",
+        "Darsha Amavasya"
+      ],
+      "27": [
+        "Shani Jayanti",
+        "Jyeshtha Amavasya"
+      ],
+      "28": [
+        "Chandra Darshan"
+      ],
+      "29": [
+        "Maharana Pratap Jayanti"
+      ],
+      "31": [
+        "Maa Ahilyabai Jayanti"
+      ]
+    },
+    "June 2025": {
+      "04": [
+        "Mahesh Jayanti"
+      ],
+      "05": [
+        "Ganga Dashahara",
+        "Gayatri Jayanti"
+      ],
+      "06": [
+        "Nirjala Ekadashi"
+      ],
+      "08": [
+        "Pradosh Vrat"
+      ],
+      "09": [
+        "Bada Mahadev Poojan"
+      ],
+      "10": [
+        "Vat Purnima Vrat"
+      ],
+      "11": [
+        "Jyeshtha Purnima",
+        "Kabir Jayanti"
+      ],
+      "14": [
+        "Krishnapingala Sankashti Chaturthi"
+      ],
+      "15": [
+        "Mithun Sankranti"
+      ],
+      "21": [
+        "Yogini Ekadashi"
+      ],
+      "23": [
+        "Pradosh Vrat"
+      ],
+      "24": [
+        "Virangana Durgavati Balidan Diwas"
+      ],
+      "25": [
+        "Hal Harini Amavasya",
+        "Ashada Amavasya"
+      ],
+      "26": [
+        "Ashada Navratri",
+        "Chandra Darshan",
+        "Gupt Navratri"
+      ],
+      "27": [
+        "Jagannath Rath Yatra"
+      ]
+    },
+    "July 2025": {
+      "04": [
+        "Bhadli Navami",
+        "Gupt Navratri End"
+      ],
+      "06": [
+        "Devshayani Ekadashi"
+      ],
+      "08": [
+        "Jayaparvati Vrat Start",
+        "Pradosh Vrat"
+      ],
+      "14": [
+        "Gajanan Sankashti Chaturthi"
+      ],
+      "16": [
+        "Kark Sankranti"
+      ],
+      "21": [
+        "Kamika Ekadashi"
+      ],
+      "22": [
+        "Pradosh Vrat"
+      ],
+      "24": [
+        "Hariyali Amavasya",
+        "Shravan Amavasya"
+      ],
+      "26": [
+        "Chandra Darshan"
+      ],
+      "27": [
+        "Hariyali Teej"
+      ],
+      "29": [
+        "Nag Panchami"
+      ],
+      "30": [
+        "Kalki Jayanti"
+      ],
+      "31": [
+        "Goswami Tulsidas Jayanti"
+      ]
+    },
+    "August 2025": {
+      "05": [
+        "Shravan Putrada Ekadashi"
+      ],
+      "06": [
+        "Pradosh Vrat"
+      ],
+      "08": [
+        "Varalakshmi Vrat"
+      ],
+      "12": [
+        "Kajari Teej",
+        "Bahula Chaturthi",
+        "Heramba Sankashti Chaturthi"
+      ],
+      "14": [
+        "Balarama Jayanti",
+        "Hal Shashti"
+      ],
+      "15": [
+        "Independence Day"
+      ],
+      "16": [
+        "Janmashtami",
+        "Dahi Handi"
+      ],
+      "17": [
+        "Simha Sankranti"
+      ],
+      "19": [
+        "Aja Ekadashi"
+      ],
+      "20": [
+        "Pradosh Vrat"
+      ],
+      "22": [
+        "Shraddha Amavasya"
+      ],
+      "23": [
+        "Kushgrahani Pola Pithora Amavasya"
+      ],
+      "24": [
+        "Chandra Darshan"
+      ],
+      "25": [
+        "Varaha Jayanti",
+        "Ramdev Jayanti"
+      ],
+      "26": [
+        "Hartalika Teej"
+      ],
+      "27": [
+        "Ganesh Chaturthi"
+      ],
+      "28": [
+        "Rishi Panchami"
+      ],
+      "30": [
+        "Nawakhai"
+      ],
+      "31": [
+        "Radha Ashtami",
+        "Skanda Shashti",
+        "Durva Ashtami"
+      ]
+    },
+    "September 2025": {
+      "02": [
+        "Teja Dashami"
+      ],
+      "03": [
+        "Parivartini Ekadashi",
+        "Dol Gyaras"
+      ],
+      "04": [
+        "Vaman Prakatotsav"
+      ],
+      "05": [
+        "Onam",
+        "Thiruvonam"
+      ],
+      "06": [
+        "Anant Chaturdashi",
+        "Ganesh Visarjan"
+      ],
+      "07": [
+        "Purnima (Lunar Eclipse)"
+      ],
+      "08": [
+        "Pitru Paksha Start"
+      ],
+      "10": [
+        "Gajanan Sankashti Chaturthi"
+      ],
+      "17": [
+        "Indira Ekadashi"
+      ],
+      "19": [
+        "Pradosh Vrat"
+      ],
+      "21": [
+        "Sarva Pitru Moksha Amavasya"
+      ],
+      "22": [
+        "Sharadiya Navratri",
+        "Ghatasthapana",
+        "Maha Kalash Sthapana"
+      ],
+      "30": [
+        "Durga Ashtami",
+        "Maha Ashtami"
+      ]
+    },
+    "October 2025": {
+      "01": [
+        "Durga Navami"
+      ],
+      "02": [
+        "Vijayadashami",
+        "Gandhi Jayanti"
+      ],
+      "03": [
+        "Papankusha Ekadashi"
+      ],
+      "04": [
+        "Pradosh Vrat"
+      ],
+      "06": [
+        "Sharad Purnima"
+      ],
+      "07": [
+        "Maharshi Valmiki Jayanti"
+      ],
+      "10": [
+        "Karwa Chauth"
+      ],
+      "17": [
+        "Rama Ekadashi"
+      ],
+      "18": [
+        "Pradosh Vrat",
+        "Dhanteras"
+      ],
+      "19": [
+        "Southern Diwali",
+        "Dhanvantari Jayanti"
+      ],
+      "20": [
+        "Diwali"
+      ],
+      "21": [
+        "Kartika Amavasya"
+      ],
+      "22": [
+        "Govardhan Puja",
+        "Bali Pratipada"
+      ],
+      "23": [
+        "Bhai Dooj"
+      ],
+      "27": [
+        "Chhath Puja",
+        "Surya Shashthi"
+      ],
+      "29": [
+        "Gopashtami"
+      ],
+      "30": [
+        "Amla Navami"
+      ],
+      "31": [
+        "Sardar Patel Jayanti"
+      ]
+    },
+    "November 2025": {
+      "01": [
+        "Devuthani Ekadashi",
+        "Namdev Jayanti"
+      ],
+      "03": [
+        "Pradosh Vrat"
+      ],
+      "04": [
+        "Vaikunth Chaturdashi",
+        "Manikarnika Snan"
+      ],
+      "05": [
+        "Guru Nanak Jayanti",
+        "Kartika Purnima"
+      ],
+      "08": [
+        "Ganesh Chaturthi Vrat"
+      ],
+      "12": [
+        "Kal Bhairav Ashtami"
+      ],
+      "15": [
+        "Utpanna Ekadashi"
+      ],
+      "17": [
+        "Pradosh Vrat"
+      ],
+      "20": [
+        "Margashirsha Amavasya"
+      ],
+      "25": [
+        "Nag Diwali",
+        "Vivah Panchami"
+      ]
+    },
+    "December 2025": {
+      "01": [
+        "Gita Jayanti",
+        "Mokshada Ekadashi"
+      ],
+      "02": [
+        "Pradosh Vrat"
+      ],
+      "04": [
+        "Dattatreya Jayanti",
+        "Datt Purnima"
+      ],
+      "07": [
+        "Akhurath Sankashti Chaturthi"
+      ],
+      "12": [
+        "Rukmini Ashtami"
+      ],
+      "15": [
+        "Saphala Ekadashi"
+      ],
+      "16": [
+        "Dhanu Sankranti"
+      ],
+      "17": [
+        "Pradosh Vrat"
+      ],
+      "18": [
+        "Guru Ghasidas Jayanti"
+      ],
+      "19": [
+        "Darsha Amavasya",
+        "Paush Amavasya"
+      ],
+      "21": [
+        "Chandra Darshan"
+      ],
+      "25": [
+        "Christmas"
+      ],
+      "30": [
+        "Paush Putrada Ekadashi"
+      ],
+      "31": [
+        "Bali Nath Ji Bairwa Jayanti"
+      ]
+    }
+  },
+  "hindi": {
+    "जनवरी 2025": {
+      "01": [
+        "चंद्र दर्शन"
+      ],
+      "06": [
+        "गुरु गोविन्द सिंह जी का जन्म दिवस"
+      ],
+      "10": [
+        "पौष पुत्रदा एकादशी"
+      ],
+      "11": [
+        "प्रदोष व्रत"
+      ],
+      "13": [
+        "शाकंभरी पूर्णिमा",
+        "पौष पूर्णिमा",
+        "लोहड़ी"
+      ],
+      "14": [
+        "मकर संक्रांति",
+        "पोंगल",
+        "इष्टि"
+      ],
+      "17": [
+        "संकटा चौथ",
+        "लंबोदर संकष्टी चतुर्थी"
+      ],
+      "21": [
+        "हेमू कालाणी का शहीदी दिवस"
+      ],
+      "25": [
+        "षटतिला एकादशी"
+      ],
+      "27": [
+        "प्रदोष व्रत"
+      ],
+      "29": [
+        "मौनी अमावस्या",
+        "माघ अमावस्या"
+      ],
+      "30": [
+        "माघ गुप्त नवरात्रि",
+        "चंद्र दर्शन"
+      ]
+    },
+    "फरवरी 2025": {
+      "03": [
+        "वसंत पंचमी"
+      ],
+      "04": [
+        "रथ/अचला सप्तमी",
+        "नर्मदा जयंती"
+      ],
+      "05": [
+        "भीष्म अष्टमी"
+      ],
+      "06": [
+        "महानंदा नवमी, गुप्त नवरात्रि समाप्त"
+      ],
+      "08": [
+        "जया एकादशी"
+      ],
+      "10": [
+        "प्रदोष व्रत",
+        "भगवान विश्वकर्मा जयंती"
+      ],
+      "12": [
+        "कुंभ संक्रांती",
+        "माघ पूर्णिमा",
+        "रविदास जयंती"
+      ],
+      "16": [
+        "द्विजाप्रिय संकष्टी चतुर्थी"
+      ],
+      "19": [
+        "छत्रपति शिवाजी जयंती"
+      ],
+      "20": [
+        "शबरी जयंती",
+        "सीताष्टमी"
+      ],
+      "24": [
+        "विजया एकादशी"
+      ],
+      "25": [
+        "प्रदोष व्रत"
+      ],
+      "26": [
+        "महाशिवरात्री",
+        "एकलव्य जयंती"
+      ],
+      "27": [
+        "फाल्गुन अमावस्या"
+      ]
+    },
+    "मार्च 2025": {
+      "01": [
+        "फुलेरा दूज",
+        "चंद्र दर्शन"
+      ],
+      "10": [
+        "आमलकी एकादशी"
+      ],
+      "11": [
+        "प्रदोष व्रत"
+      ],
+      "13": [
+        "होलिका दहन"
+      ],
+      "16": [
+        "भाई दूज"
+      ],
+      "17": [
+        "भालचंद्र संकष्टी चतुर्थी"
+      ],
+      "18": [
+        "टोडरमल जयंती"
+      ],
+      "19": [
+        "रंग पंचमी"
+      ],
+      "20": [
+        "वीरांगना अवंति बाई बलिदान दिवस"
+      ],
+      "21": [
+        "भानु सप्तमी"
+      ],
+      "22": [
+        "शीतला अष्टमी",
+        "बासोडा"
+      ],
+      "25": [
+        "पापमोचनी एकादशी",
+        "कर्मा जयंती"
+      ],
+      "27": [
+        "प्रदोष व्रत"
+      ],
+      "29": [
+        "सूर्यग्रहण आंशिक",
+        "चैत्र अमावस्या"
+      ],
+      "30": [
+        "चैत्र नवरात्री",
+        "गुड़ी पड़वा",
+        "चैतीचांद",
+        "महर्षि गौतम जंयती"
+      ],
+      "31": [
+        "भगवान मीनेष जयंती",
+        "गौरी पूजा",
+        "गणगौर"
+      ]
+    },
+    "अप्रैल 2025": {
+      "02": [
+        "निषादराज जयंती"
+      ],
+      "05": [
+        "दुर्गा अष्टमी",
+        "महा अष्टमी"
+      ],
+      "06": [
+        "श्रीराम नवमी"
+      ],
+      "08": [
+        "कामदा एकादशी"
+      ],
+      "10": [
+        "प्रदोष व्रत",
+        "महावीर जयंती"
+      ],
+      "11": [
+        "महात्मा ज्योतिबा फुले जयंती"
+      ],
+      "12": [
+        "हनुमान जयंती",
+        "चैत्र पूर्णिमा"
+      ],
+      "14": [
+        "वैसाखी"
+      ],
+      "16": [
+        "विकट संकष्टी चतुर्थी"
+      ],
+      "18": [
+        "गुड फ्राइडे",
+        "गुरु तेग बहादुर जयंती"
+      ],
+      "20": [
+        "गुरु अर्जुन देव जयंती"
+      ],
+      "24": [
+        "वरुथिनी एकादशी",
+        "वल्लभाचार्य जयंती"
+      ],
+      "25": [
+        "प्रदोष व्रत",
+        "सेन जंयती"
+      ],
+      "27": [
+        "सतुबाई अमावस्या",
+        "वैशाख अमावस्या"
+      ],
+      "30": [
+        "अक्षय तृतीया",
+        "भगवान परशुराम जयंती"
+      ]
+    },
+    "मई 2025": {
+      "02": [
+        "शंकराचार्य जयंती"
+      ],
+      "04": [
+        "गंगा सप्तमी"
+      ],
+      "06": [
+        "जानकी जयंती"
+      ],
+      "08": [
+        "मोहिनी एकादशी"
+      ],
+      "09": [
+        "प्रदोष व्रत"
+      ],
+      "11": [
+        "नरसिंह जयंती"
+      ],
+      "12": [
+        "कूर्म जयंती",
+        "बुद्ध पूर्णिमा",
+        "वैशाख पूर्णिमा"
+      ],
+      "14": [
+        "वृषभ संक्रांति"
+      ],
+      "15": [
+        "केवट जयंती"
+      ],
+      "16": [
+        "एकदंत संकष्टी चतुर्थी"
+      ],
+      "23": [
+        "अपरा/अचला एकादशी"
+      ],
+      "24": [
+        "प्रदोष व्रत"
+      ],
+      "26": [
+        "वट सावित्री व्रत",
+        "दर्श अमावस्या"
+      ],
+      "27": [
+        "शनि जयंती",
+        "ज्येष्ठ अमावस्या"
+      ],
+      "28": [
+        "चंद्र दर्शन"
+      ],
+      "29": [
+        "महाराणा प्रताप जयंती"
+      ],
+      "31": [
+        "मां अहिल्याबाई जयंती"
+      ]
+    },
+    "जून 2025": {
+      "04": [
+        "महेश जयंती"
+      ],
+      "05": [
+        "गंगा दशहरा",
+        "गायत्री जयंती"
+      ],
+      "06": [
+        "निर्जला एकादशी"
+      ],
+      "08": [
+        "प्रदोष व्रत"
+      ],
+      "09": [
+        "बड़ा महादेव पूजन"
+      ],
+      "10": [
+        "वट पूर्णिमा व्रत"
+      ],
+      "11": [
+        "ज्येष्ठ पूर्णिमा",
+        "कबीर जयंती"
+      ],
+      "14": [
+        "कृष्णपिंगला संकष्टी चतुर्थी"
+      ],
+      "15": [
+        "मिथुन संक्रांती"
+      ],
+      "21": [
+        "योगिनी एकादशी"
+      ],
+      "23": [
+        "प्रदोष व्रत"
+      ],
+      "24": [
+        "वीरांगना दुर्गाबती बलिदान दिवस"
+      ],
+      "25": [
+        "हल हारिणी अमावस्या",
+        "आषाढ अमावस्या"
+      ],
+      "26": [
+        "आषाढ नवरात्री",
+        "चंद्र दर्शन",
+        "गुप्त नवरात्रि"
+      ],
+      "27": [
+        "जगन्नाथ रथयात्रा"
+      ]
+    },
+    "जुलाई 2025": {
+      "04": [
+        "भड़ली नवमी",
+        "गुप्त नवरात्रि समाप्त"
+      ],
+      "06": [
+        "देवशयनी एकादशी"
+      ],
+      "08": [
+        "जयपार्वती व्रत सुरू",
+        "प्रदोष व्रत"
+      ],
+      "14": [
+        "गजानन संकष्टी चतुर्थी"
+      ],
+      "16": [
+        "कर्क संक्रांती"
+      ],
+      "21": [
+        "कामिका एकादशी"
+      ],
+      "22": [
+        "प्रदोष व्रत"
+      ],
+      "24": [
+        "हरियाली अमावस्या",
+        "श्रावण अमावस्या"
+      ],
+      "26": [
+        "चंद्र दर्शन"
+      ],
+      "27": [
+        "हरियाली तीज"
+      ],
+      "29": [
+        "नागपंचमी"
+      ],
+      "30": [
+        "कल्की जयंती"
+      ],
+      "31": [
+        "गोस्वामी तुलसीदास जयंती"
+      ]
+    },
+    "अगस्त 2025": {
+      "05": [
+        "श्रावण पुत्रदा एकादशी"
+      ],
+      "06": [
+        "प्रदोष व्रत"
+      ],
+      "08": [
+        "वरलक्ष्मी व्रत"
+      ],
+      "12": [
+        "कजरी तीज",
+        "बहुला चतुर्थी",
+        "हेरंब संकष्टी चतुर्थी"
+      ],
+      "14": [
+        "बलराम जयंती",
+        "हलषष्टी"
+      ],
+      "15": [
+        "स्वतंत्रता दिवस"
+      ],
+      "16": [
+        "जन्माष्टमी",
+        "दहीहंडी"
+      ],
+      "17": [
+        "सिंह संक्रांती"
+      ],
+      "19": [
+        "अजा एकादशी"
+      ],
+      "20": [
+        "प्रदोष व्रत"
+      ],
+      "22": [
+        "श्राद्ध अमावस्या"
+      ],
+      "23": [
+        "कुशग्रहणी पोला पिठोरा अमावस्या"
+      ],
+      "24": [
+        "चंद्र दर्शन"
+      ],
+      "25": [
+        "वराह जयंती",
+        "रामदेव जयंती"
+      ],
+      "26": [
+        "हरतालिका तीज"
+      ],
+      "27": [
+        "गणेश चतुर्थी"
+      ],
+      "28": [
+        "ऋषी पंचमी"
+      ],
+      "30": [
+        "नवाखाई"
+      ],
+      "31": [
+        "राधाष्टमी",
+        "स्कंद षष्ठी",
+        "दुर्वा अष्टमी"
+      ]
+    },
+    "सितंबर 2025": {
+      "02": [
+        "तेजा दशमी"
+      ],
+      "03": [
+        "परिवर्तिनी एकादशी",
+        "डोल ग्यारस"
+      ],
+      "04": [
+        "भगवान वामन प्रकटोत्सव"
+      ],
+      "05": [
+        "ओणम",
+        "तिरुवोनम"
+      ],
+      "06": [
+        "अनंत चतुर्दशी",
+        "गणेश विसर्जन"
+      ],
+      "07": [
+        "पूर्णिमा (चंद्रग्रहण)"
+      ],
+      "08": [
+        "पितृपक्ष प्रारम्भ"
+      ],
+      "10": [
+        "गजानन संकष्टी चतुर्थी"
+      ],
+      "17": [
+        "इंदिरा एकादशी"
+      ],
+      "19": [
+        "प्रदोष व्रत"
+      ],
+      "21": [
+        "सर्व पितृ मोक्ष अमावस्या"
+      ],
+      "22": [
+        "शारदीय नवरात्री",
+        "घटस्थापना",
+        "महा कलश स्थापना"
+      ],
+      "30": [
+        "दुर्गा अष्टमी",
+        "महा अष्टमी"
+      ]
+    },
+    "अक्टूबर 2025": {
+      "01": [
+        "दुर्गा नवमी"
+      ],
+      "02": [
+        "विजयादशमी",
+        "गांधी जयंती"
+      ],
+      "03": [
+        "पापांकुशा एकादशी"
+      ],
+      "04": [
+        "प्रदोष व्रत"
+      ],
+      "06": [
+        "शरद पूर्णिमा"
+      ],
+      "07": [
+        "महर्षि वाल्मीकि जयंती"
+      ],
+      "10": [
+        "करवा चौथ"
+      ],
+      "17": [
+        "रमा एकादशी"
+      ],
+      "18": [
+        "प्रदोष व्रत",
+        "धनतेरस"
+      ],
+      "19": [
+        "दक्षिणी दीपावली",
+        "धन्वंतरी जयंती"
+      ],
+      "20": [
+        "दीपावली"
+      ],
+      "21": [
+        "कार्तिक अमावस्या"
+      ],
+      "22": [
+        "गोवर्धन पूजा",
+        "बली प्रतिपदा"
+      ],
+      "23": [
+        "भाई दूज"
+      ],
+      "27": [
+        "छठ पूजा",
+        "सूर्य षष्ठी"
+      ],
+      "29": [
+        "गोपाष्टमी"
+      ],
+      "30": [
+        "आंवला नवमी"
+      ],
+      "31": [
+        "सरदार पटेल जयंती"
+      ]
+    },
+    "नवंबर 2025": {
+      "01": [
+        "देवउठनी एकादशी",
+        "नामदेव जयंती"
+      ],
+      "03": [
+        "प्रदोष व्रत"
+      ],
+      "04": [
+        "वैकुंठ चतुर्दशी",
+        "मणिकर्णिका स्नान"
+      ],
+      "05": [
+        "गुरु नानक जयंती",
+        "कार्तिक पूर्णिमा"
+      ],
+      "08": [
+        "गणेश चतुर्थी व्रत"
+      ],
+      "12": [
+        "काल भैरवाष्टमी"
+      ],
+      "15": [
+        "उत्पन्ना एकादशी"
+      ],
+      "17": [
+        "प्रदोष व्रत"
+      ],
+      "20": [
+        "मार्गशीर्ष अमावस्या"
+      ],
+      "25": [
+        "नाग दिवाली",
+        "विवाह पंचमी"
+      ]
+    },
+    "दिसंबर 2025": {
+      "01": [
+        "गीता जयंती",
+        "मोक्षदा एकादशी"
+      ],
+      "02": [
+        "प्रदोष व्रत"
+      ],
+      "04": [
+        "दत्तात्रेय जयंती",
+        "दत्त पूर्णिमा"
+      ],
+      "07": [
+        "अखुरथ संकष्टी चतुर्थी"
+      ],
+      "12": [
+        "रूक्मिणी अष्टमी"
+      ],
+      "15": [
+        "सफला एकादशी"
+      ],
+      "16": [
+        "धनु संक्रांती"
+      ],
+      "17": [
+        "प्रदोष व्रत"
+      ],
+      "18": [
+        "गुरु घासीदास जयंती"
+      ],
+      "19": [
+        "दर्श अमावस्या",
+        "पौष अमावस्या"
+      ],
+      "21": [
+        "चंद्र दर्शन"
+      ],
+      "25": [
+        "क्रिसमस"
+      ],
+      "30": [
+        "पौष पुत्रदा एकादशी"
+      ],
+      "31": [
+        "बाली नाथ जी बैरवा जयंती"
+      ]
+    }
+  }
+}

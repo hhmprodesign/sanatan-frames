@@ -1,0 +1,1431 @@
+{
+  "metadata": {
+    "year": 2027,
+    "verified": false,
+    "source": "Computed from astronomical positions for New Delhi (Lahiri ayanamsa) using the same rules as the 2026 data. Check dates against a printed panchang before relying on them."
+  },
+  "english": {
+    "January 2027": {
+      "03": [
+        "Saphala Ekadashi"
+      ],
+      "05": [
+        "Bhauma Pradosh Vrat"
+      ],
+      "07": [
+        "Pausha Amavasya",
+        "Darsha Amavasya",
+        "Anvadhan"
+      ],
+      "08": [
+        "Ishti"
+      ],
+      "09": [
+        "Chandra Darshana"
+      ],
+      "14": [
+        "Makara Sankranti",
+        "Pongal"
+      ],
+      "19": [
+        "Pausha Putrada Ekadashi"
+      ],
+      "20": [
+        "Budha Pradosh Vrat"
+      ],
+      "22": [
+        "Pausha Purnima",
+        "Anvadhan",
+        "Shakambhari Purnima"
+      ],
+      "23": [
+        "Ishti"
+      ],
+      "25": [
+        "Lambodara Sankashti",
+        "Sakat Chauth"
+      ]
+    },
+    "February 2027": {
+      "02": [
+        "Shattila Ekadashi"
+      ],
+      "03": [
+        "Budha Pradosh Vrat"
+      ],
+      "06": [
+        "Magha Amavasya",
+        "Darsha Amavasya",
+        "Anvadhan",
+        "Mauni Amavas",
+        "Solar Eclipse (Annular)"
+      ],
+      "07": [
+        "Ishti",
+        "Chandra Darshana",
+        "Magha Navratri"
+      ],
+      "11": [
+        "Vasant Panchami"
+      ],
+      "13": [
+        "Ratha Saptami",
+        "Kumbha Sankranti"
+      ],
+      "14": [
+        "Bhishma Ashtami"
+      ],
+      "17": [
+        "Jaya Ekadashi"
+      ],
+      "18": [
+        "Guru Pradosh Vrat"
+      ],
+      "20": [
+        "Magha Purnima",
+        "Anvadhan"
+      ],
+      "21": [
+        "Ishti"
+      ],
+      "23": [
+        "Dwijapriya Sankashti"
+      ]
+    },
+    "March 2027": {
+      "03": [
+        "Vijaya Ekadashi"
+      ],
+      "04": [
+        "Gauna Vijaya Ekadashi",
+        "Vaishnava Vijaya Ekadashi"
+      ],
+      "05": [
+        "Shukra Pradosh Vrat"
+      ],
+      "06": [
+        "Maha Shivaratri"
+      ],
+      "07": [
+        "Darsha Amavasya"
+      ],
+      "08": [
+        "Phalguna Amavasya",
+        "Anvadhan"
+      ],
+      "09": [
+        "Ishti",
+        "Chandra Darshana"
+      ],
+      "10": [
+        "Phulera Dooj"
+      ],
+      "15": [
+        "Meena Sankranti"
+      ],
+      "18": [
+        "Amalaki Ekadashi"
+      ],
+      "20": [
+        "Shani Pradosh Vrat"
+      ],
+      "22": [
+        "Phalguna Purnima",
+        "Anvadhan",
+        "Chhoti Holi",
+        "Holika Dahan",
+        "Vasanta Purnima"
+      ],
+      "23": [
+        "Ishti",
+        "Holi"
+      ],
+      "24": [
+        "Bhai Dooj",
+        "Bhratri Dwitiya"
+      ],
+      "25": [
+        "Bhalachandra Sankashti"
+      ],
+      "27": [
+        "Ranga Panchami"
+      ],
+      "29": [
+        "Sheetala Saptami"
+      ],
+      "30": [
+        "Sheetala Ashtami",
+        "Basoda"
+      ]
+    },
+    "April 2027": {
+      "02": [
+        "Papamochani Ekadashi"
+      ],
+      "04": [
+        "Ravi Pradosh Vrat"
+      ],
+      "06": [
+        "Chaitra Amavasya",
+        "Darsha Amavasya",
+        "Anvadhan"
+      ],
+      "07": [
+        "Ishti",
+        "Nutan Varsh Prarambha",
+        "Ugadi",
+        "Gudi Padwa",
+        "Chaitra Navratri"
+      ],
+      "08": [
+        "Chandra Darshana"
+      ],
+      "09": [
+        "Matsya Jayanti",
+        "Gauri Puja",
+        "Gangaur"
+      ],
+      "11": [
+        "Lakshmi Panchami"
+      ],
+      "12": [
+        "Yamuna Chhath"
+      ],
+      "14": [
+        "Mesha Sankranti",
+        "Solar New Year"
+      ],
+      "15": [
+        "Rama Navami - Smarta"
+      ],
+      "16": [
+        "Rama Navami - ISKCON",
+        "Swaminarayan Jayanti"
+      ],
+      "17": [
+        "Kamada Ekadashi"
+      ],
+      "18": [
+        "Ravi Pradosh Vrat"
+      ],
+      "20": [
+        "Chaitra Purnima",
+        "Anvadhan",
+        "Hanuman Jayanti",
+        "Hanuman Janmotsava"
+      ],
+      "21": [
+        "Ishti"
+      ],
+      "24": [
+        "Vikata Sankashti"
+      ]
+    },
+    "May 2027": {
+      "02": [
+        "Varuthini Ekadashi"
+      ],
+      "03": [
+        "Soma Pradosh Vrat"
+      ],
+      "06": [
+        "Vaishakha Amavasya",
+        "Darsha Amavasya",
+        "Anvadhan"
+      ],
+      "07": [
+        "Ishti",
+        "Chandra Darshana"
+      ],
+      "09": [
+        "Parashurama Jayanti",
+        "Akshaya Tritiya"
+      ],
+      "12": [
+        "Ganga Saptami"
+      ],
+      "14": [
+        "Sita Navami"
+      ],
+      "15": [
+        "Vrishabha Sankranti"
+      ],
+      "16": [
+        "Mohini Ekadashi"
+      ],
+      "17": [
+        "Soma Pradosh Vrat"
+      ],
+      "18": [
+        "Narasimha Jayanti"
+      ],
+      "20": [
+        "Vaishakha Purnima",
+        "Anvadhan",
+        "Kurma Jayanti",
+        "Buddha Purnima"
+      ],
+      "21": [
+        "Ishti",
+        "Narada Jayanti"
+      ],
+      "23": [
+        "Ekadanta Sankashti"
+      ]
+    },
+    "June 2027": {
+      "01": [
+        "Apara Ekadashi"
+      ],
+      "02": [
+        "Budha Pradosh Vrat"
+      ],
+      "04": [
+        "Jyeshtha Amavasya",
+        "Darsha Amavasya",
+        "Anvadhan",
+        "Vat Savitri Vrat",
+        "Shani Jayanti"
+      ],
+      "05": [
+        "Ishti",
+        "Chandra Darshana"
+      ],
+      "13": [
+        "Ganga Dussehra"
+      ],
+      "14": [
+        "Nirjala Ekadashi",
+        "Gayatri Jayanti"
+      ],
+      "15": [
+        "Mithuna Sankranti"
+      ],
+      "16": [
+        "Budha Pradosh Vrat"
+      ],
+      "18": [
+        "Jyeshtha Purnima",
+        "Anvadhan",
+        "Vat Purnima Vrat"
+      ],
+      "19": [
+        "Ishti"
+      ],
+      "22": [
+        "Krishnapingala Sankashti"
+      ],
+      "30": [
+        "Yogini Ekadashi"
+      ]
+    },
+    "July 2027": {
+      "01": [
+        "Guru Pradosh Vrat"
+      ],
+      "03": [
+        "Darsha Amavasya",
+        "Anvadhan"
+      ],
+      "04": [
+        "Ashadha Amavasya",
+        "Ishti",
+        "Ashadha Navratri"
+      ],
+      "05": [
+        "Chandra Darshana",
+        "Jagannath Rathyatra"
+      ],
+      "14": [
+        "Devshayani Ekadashi"
+      ],
+      "15": [
+        "Guru Pradosh Vrat"
+      ],
+      "16": [
+        "Jayaparvati Vrat Begins"
+      ],
+      "17": [
+        "Kokila Vrat",
+        "Karka Sankranti"
+      ],
+      "18": [
+        "Ashadha Purnima",
+        "Anvadhan",
+        "Guru Purnima",
+        "Vyasa Puja"
+      ],
+      "19": [
+        "Ishti"
+      ],
+      "21": [
+        "Jayaparvati Vrat Ends"
+      ],
+      "22": [
+        "Gajanana Sankashti"
+      ],
+      "29": [
+        "Kamika Ekadashi"
+      ],
+      "30": [
+        "Gauna Kamika Ekadashi",
+        "Vaishnava Kamika Ekadashi"
+      ],
+      "31": [
+        "Shani Pradosh Vrat"
+      ]
+    },
+    "August 2027": {
+      "02": [
+        "Shravana Amavasya",
+        "Darsha Amavasya",
+        "Anvadhan",
+        "Solar Eclipse (Full)"
+      ],
+      "03": [
+        "Ishti",
+        "Chandra Darshana"
+      ],
+      "04": [
+        "Hariyali Teej"
+      ],
+      "06": [
+        "Nag Panchami"
+      ],
+      "07": [
+        "Kalki Jayanti"
+      ],
+      "08": [
+        "Bhanu Saptami"
+      ],
+      "12": [
+        "Shravana Putrada Ekadashi"
+      ],
+      "13": [
+        "Varalakshmi Vrat"
+      ],
+      "14": [
+        "Shani Pradosh Vrat"
+      ],
+      "17": [
+        "Shravana Purnima",
+        "Anvadhan",
+        "Raksha Bandhan",
+        "Rakhi",
+        "Gayatri Jayanti",
+        "Simha Sankranti"
+      ],
+      "18": [
+        "Ishti"
+      ],
+      "20": [
+        "Heramba Sankashti",
+        "Kajari Teej",
+        "Bahula Chaturthi"
+      ],
+      "23": [
+        "Hala Shashthi"
+      ],
+      "24": [
+        "Krishna Janmashtami"
+      ],
+      "26": [
+        "Dahi Handi"
+      ],
+      "28": [
+        "Aja Ekadashi",
+        "Bachha Baras Dwadashi"
+      ],
+      "29": [
+        "Ravi Pradosh Vrat"
+      ],
+      "31": [
+        "Bhadrapada Amavasya",
+        "Darsha Amavasya",
+        "Anvadhan",
+        "Pithori Amavasya"
+      ]
+    },
+    "September 2027": {
+      "01": [
+        "Ishti"
+      ],
+      "02": [
+        "Chandra Darshana"
+      ],
+      "03": [
+        "Varaha Jayanti",
+        "Hartalika Teej"
+      ],
+      "04": [
+        "Ganesh Chaturthi",
+        "Rishi Panchami"
+      ],
+      "05": [
+        "Balarama Jayanti"
+      ],
+      "07": [
+        "Lalita Saptami",
+        "Durva Ashtami"
+      ],
+      "08": [
+        "Radha Ashtami",
+        "Mahalakshmi Vrat Begins"
+      ],
+      "11": [
+        "Parsva Ekadashi"
+      ],
+      "12": [
+        "Vamana Jayanti"
+      ],
+      "13": [
+        "Soma Pradosh Vrat"
+      ],
+      "14": [
+        "Ganesh Visarjan",
+        "Anant Chaturdashi"
+      ],
+      "15": [
+        "Bhadrapada Purnima",
+        "Anvadhan",
+        "Purnima Shraddha"
+      ],
+      "16": [
+        "Ishti",
+        "Pitrupaksha Begins"
+      ],
+      "17": [
+        "Kanya Sankranti",
+        "Vishwakarma Puja"
+      ],
+      "19": [
+        "Vighnaraja Sankashti"
+      ],
+      "23": [
+        "Mahalakshmi Vrat Ends",
+        "Jivitputrika Vrat"
+      ],
+      "26": [
+        "Indira Ekadashi"
+      ],
+      "27": [
+        "Soma Pradosh Vrat"
+      ],
+      "29": [
+        "Darsha Amavasya",
+        "Anvadhan",
+        "Sarva Pitru Amavasya"
+      ],
+      "30": [
+        "Ashwina Amavasya",
+        "Ishti",
+        "Navratri Begins",
+        "Ghatasthapana"
+      ]
+    },
+    "October 2027": {
+      "02": [
+        "Chandra Darshana"
+      ],
+      "04": [
+        "Upang Lalita Vrat"
+      ],
+      "06": [
+        "Saraswati Avahan"
+      ],
+      "07": [
+        "Durga Ashtami",
+        "Saraswati Puja"
+      ],
+      "08": [
+        "Maha Navami"
+      ],
+      "09": [
+        "Durga Visarjan",
+        "Dussehra",
+        "Saraswati Visarjan"
+      ],
+      "11": [
+        "Papankusha Ekadashi"
+      ],
+      "12": [
+        "Bhauma Pradosh Vrat"
+      ],
+      "14": [
+        "Kojagara Puja",
+        "Sharad Purnima"
+      ],
+      "15": [
+        "Ashwina Purnima",
+        "Anvadhan"
+      ],
+      "16": [
+        "Ishti"
+      ],
+      "18": [
+        "Vakratunda Sankashti",
+        "Karwa Chauth",
+        "Tula Sankranti"
+      ],
+      "22": [
+        "Ahoi Ashtami",
+        "Radha Kunda Snan"
+      ],
+      "25": [
+        "Rama Ekadashi"
+      ],
+      "26": [
+        "Vaishnava Rama Ekadashi",
+        "Govatsa Dwadashi"
+      ],
+      "27": [
+        "Budha Pradosh Vrat",
+        "Dhanteras",
+        "Kali Chaudas"
+      ],
+      "28": [
+        "Narak Chaturdashi"
+      ],
+      "29": [
+        "Kartika Amavasya",
+        "Darsha Amavasya",
+        "Anvadhan",
+        "Lakshmi Puja",
+        "Diwali"
+      ],
+      "30": [
+        "Ishti",
+        "Govardhan Puja",
+        "Dyuta Krida"
+      ],
+      "31": [
+        "Chandra Darshana",
+        "Bhaiya Dooj"
+      ]
+    },
+    "November 2027": {
+      "03": [
+        "Labh Panchami"
+      ],
+      "04": [
+        "Chhath Puja"
+      ],
+      "06": [
+        "Gopashtami"
+      ],
+      "07": [
+        "Akshaya Navami"
+      ],
+      "08": [
+        "Kansa Vadh"
+      ],
+      "10": [
+        "Devutthana Ekadashi",
+        "Bhishma Panchak Begins"
+      ],
+      "11": [
+        "Guru Pradosh Vrat",
+        "Tulasi Vivah",
+        "Vishweshwara Vrat"
+      ],
+      "12": [
+        "Vaikuntha Chaturdashi",
+        "Manikarnika Snan"
+      ],
+      "13": [
+        "Anvadhan",
+        "Dev Diwali"
+      ],
+      "14": [
+        "Kartika Purnima",
+        "Ishti"
+      ],
+      "17": [
+        "Ganadhipa Sankashti",
+        "Vrishchika Sankranti"
+      ],
+      "21": [
+        "Kalabhairav Jayanti"
+      ],
+      "24": [
+        "Utpanna Ekadashi"
+      ],
+      "25": [
+        "Guru Pradosh Vrat"
+      ],
+      "27": [
+        "Darsha Amavasya",
+        "Anvadhan"
+      ],
+      "28": [
+        "Margashirsha Amavasya",
+        "Ishti"
+      ],
+      "29": [
+        "Chandra Darshana"
+      ]
+    },
+    "December 2027": {
+      "03": [
+        "Vivah Panchami"
+      ],
+      "04": [
+        "Champa Shashthi"
+      ],
+      "05": [
+        "Bhanu Saptami"
+      ],
+      "09": [
+        "Mokshada Ekadashi",
+        "Gita Jayanti"
+      ],
+      "11": [
+        "Shani Pradosh Vrat"
+      ],
+      "13": [
+        "Margashirsha Purnima",
+        "Anvadhan",
+        "Dattatreya Jayanti"
+      ],
+      "14": [
+        "Ishti"
+      ],
+      "16": [
+        "Akhuratha Sankashti",
+        "Dhanu Sankranti"
+      ],
+      "19": [
+        "Bhanu Saptami"
+      ],
+      "23": [
+        "Saphala Ekadashi"
+      ],
+      "25": [
+        "Shani Pradosh Vrat"
+      ],
+      "27": [
+        "Pausha Amavasya",
+        "Darsha Amavasya",
+        "Anvadhan"
+      ],
+      "28": [
+        "Ishti"
+      ],
+      "29": [
+        "Chandra Darshana"
+      ]
+    }
+  },
+  "hindi": {
+    "जनवरी 2027": {
+      "03": [
+        "सफला एकादशी"
+      ],
+      "05": [
+        "भौम प्रदोष व्रत"
+      ],
+      "07": [
+        "पौष अमावस्या",
+        "दर्श अमावस्या",
+        "अन्वाधान"
+      ],
+      "08": [
+        "इष्टि"
+      ],
+      "09": [
+        "चंद्र दर्शन"
+      ],
+      "14": [
+        "मकर संक्रांति",
+        "पोंगल"
+      ],
+      "19": [
+        "पौष पुत्रदा एकादशी"
+      ],
+      "20": [
+        "बुध प्रदोष व्रत"
+      ],
+      "22": [
+        "पौष पूर्णिमा",
+        "अन्वाधान",
+        "शाकंभरी पूर्णिमा"
+      ],
+      "23": [
+        "इष्टि"
+      ],
+      "25": [
+        "लम्बोदर संकष्टी चतुर्थी",
+        "सकट चौथ"
+      ]
+    },
+    "फरवरी 2027": {
+      "02": [
+        "षटतिला एकादशी"
+      ],
+      "03": [
+        "बुध प्रदोष व्रत"
+      ],
+      "06": [
+        "माघ अमावस्या",
+        "दर्श अमावस्या",
+        "अन्वाधान",
+        "मौनी अमावस्या",
+        "सूर्य ग्रहण (वलयाकार)"
+      ],
+      "07": [
+        "इष्टि",
+        "चंद्र दर्शन",
+        "माघ नवरात्रि"
+      ],
+      "11": [
+        "वसंत पंचमी"
+      ],
+      "13": [
+        "रथ सप्तमी",
+        "कुंभ संक्रांति"
+      ],
+      "14": [
+        "भीष्म अष्टमी"
+      ],
+      "17": [
+        "जया एकादशी"
+      ],
+      "18": [
+        "गुरु प्रदोष व्रत"
+      ],
+      "20": [
+        "माघ पूर्णिमा",
+        "अन्वाधान"
+      ],
+      "21": [
+        "इष्टि"
+      ],
+      "23": [
+        "द्विजप्रिय संकष्टी चतुर्थी"
+      ]
+    },
+    "मार्च 2027": {
+      "03": [
+        "विजया एकादशी"
+      ],
+      "04": [
+        "गौण विजया एकादशी",
+        "वैष्णव विजया एकादशी"
+      ],
+      "05": [
+        "शुक्र प्रदोष व्रत"
+      ],
+      "06": [
+        "महा शिवरात्रि"
+      ],
+      "07": [
+        "दर्श अमावस्या"
+      ],
+      "08": [
+        "फाल्गुन अमावस्या",
+        "अन्वाधान"
+      ],
+      "09": [
+        "इष्टि",
+        "चंद्र दर्शन"
+      ],
+      "10": [
+        "फुलेरा दूज"
+      ],
+      "15": [
+        "मीन संक्रांति"
+      ],
+      "18": [
+        "आमलकी एकादशी"
+      ],
+      "20": [
+        "शनि प्रदोष व्रत"
+      ],
+      "22": [
+        "फाल्गुन पूर्णिमा",
+        "अन्वाधान",
+        "छोटी होली",
+        "होलिका दहन",
+        "वसंत पूर्णिमा"
+      ],
+      "23": [
+        "इष्टि",
+        "होली"
+      ],
+      "24": [
+        "भाई दूज",
+        "भ्रातृ द्वितीया"
+      ],
+      "25": [
+        "बालचंद्र संकष्टी चतुर्थी"
+      ],
+      "27": [
+        "रंग पंचमी"
+      ],
+      "29": [
+        "शीतला सप्तमी"
+      ],
+      "30": [
+        "शीतला अष्टमी",
+        "बसौड़ा"
+      ]
+    },
+    "अप्रैल 2027": {
+      "02": [
+        "पापमोचनी एकादशी"
+      ],
+      "04": [
+        "रवि प्रदोष व्रत"
+      ],
+      "06": [
+        "चैत्र अमावस्या",
+        "दर्श अमावस्या",
+        "अन्वाधान"
+      ],
+      "07": [
+        "इष्टि",
+        "नूतन वर्ष प्रारंभ",
+        "उगादी",
+        "गुड़ी पड़वा",
+        "चैत्र नवरात्रि"
+      ],
+      "08": [
+        "चंद्र दर्शन"
+      ],
+      "09": [
+        "मत्स्य जयंती",
+        "गौरी पूजा",
+        "गणगौर"
+      ],
+      "11": [
+        "लक्ष्मी पंचमी"
+      ],
+      "12": [
+        "यमुना छठ"
+      ],
+      "14": [
+        "मेष संक्रांति",
+        "सौर नववर्ष"
+      ],
+      "15": [
+        "राम नवमी (स्मार्त)"
+      ],
+      "16": [
+        "राम नवमी (इस्कॉन)",
+        "स्वामीनारायण जयंती"
+      ],
+      "17": [
+        "कामदा एकादशी"
+      ],
+      "18": [
+        "रवि प्रदोष व्रत"
+      ],
+      "20": [
+        "चैत्र पूर्णिमा",
+        "अन्वाधान",
+        "हनुमान जयंती",
+        "हनुमान जन्मोत्सव"
+      ],
+      "21": [
+        "इष्टि"
+      ],
+      "24": [
+        "विकट संकष्टी चतुर्थी"
+      ]
+    },
+    "मई 2027": {
+      "02": [
+        "वरुथिनी एकादशी"
+      ],
+      "03": [
+        "सोम प्रदोष व्रत"
+      ],
+      "06": [
+        "वैशाख अमावस्या",
+        "दर्श अमावस्या",
+        "अन्वाधान"
+      ],
+      "07": [
+        "इष्टि",
+        "चंद्र दर्शन"
+      ],
+      "09": [
+        "परशुराम जयंती",
+        "अक्षय तृतीया"
+      ],
+      "12": [
+        "गंगा सप्तमी"
+      ],
+      "14": [
+        "सीता नवमी"
+      ],
+      "15": [
+        "वृषभ संक्रांति"
+      ],
+      "16": [
+        "मोहिनी एकादशी"
+      ],
+      "17": [
+        "सोम प्रदोष व्रत"
+      ],
+      "18": [
+        "नृसिंह जयंती"
+      ],
+      "20": [
+        "वैशाख पूर्णिमा",
+        "अन्वाधान",
+        "कूर्म जयंती",
+        "बुद्ध पूर्णिमा"
+      ],
+      "21": [
+        "इष्टि",
+        "नारद जयंती"
+      ],
+      "23": [
+        "एकदंत संकष्टी चतुर्थी"
+      ]
+    },
+    "जून 2027": {
+      "01": [
+        "अपरा एकादशी"
+      ],
+      "02": [
+        "बुध प्रदोष व्रत"
+      ],
+      "04": [
+        "ज्येष्ठ अमावस्या",
+        "दर्श अमावस्या",
+        "अन्वाधान",
+        "वट सावित्री व्रत",
+        "शनि जयंती"
+      ],
+      "05": [
+        "इष्टि",
+        "चंद्र दर्शन"
+      ],
+      "13": [
+        "गंगा दशहरा"
+      ],
+      "14": [
+        "निर्जला एकादशी",
+        "गायत्री जयंती"
+      ],
+      "15": [
+        "मिथुन संक्रांति"
+      ],
+      "16": [
+        "बुध प्रदोष व्रत"
+      ],
+      "18": [
+        "ज्येष्ठ पूर्णिमा",
+        "अन्वाधान",
+        "वट पूर्णिमा व्रत"
+      ],
+      "19": [
+        "इष्टि"
+      ],
+      "22": [
+        "कृष्णपिंगला संकष्टी चतुर्थी"
+      ],
+      "30": [
+        "योगिनी एकादशी"
+      ]
+    },
+    "जुलाई 2027": {
+      "01": [
+        "गुरु प्रदोष व्रत"
+      ],
+      "03": [
+        "दर्श अमावस्या",
+        "अन्वाधान"
+      ],
+      "04": [
+        "आषाढ़ अमावस्या",
+        "इष्टि",
+        "आषाढ़ नवरात्रि"
+      ],
+      "05": [
+        "चंद्र दर्शन",
+        "जगन्नाथ रथयात्रा"
+      ],
+      "14": [
+        "देवशयनी एकादशी"
+      ],
+      "15": [
+        "गुरु प्रदोष व्रत"
+      ],
+      "16": [
+        "जयापार्वती व्रत प्रारंभ"
+      ],
+      "17": [
+        "कोकिला व्रत",
+        "कर्क संक्रांति"
+      ],
+      "18": [
+        "आषाढ़ पूर्णिमा",
+        "अन्वाधान",
+        "गुरु पूर्णिमा",
+        "व्यास पूजा"
+      ],
+      "19": [
+        "इष्टि"
+      ],
+      "21": [
+        "जयापार्वती व्रत समाप्त"
+      ],
+      "22": [
+        "गजानन संकष्टी चतुर्थी"
+      ],
+      "29": [
+        "कामिका एकादशी"
+      ],
+      "30": [
+        "गौण कामिका एकादशी",
+        "वैष्णव कामिका एकादशी"
+      ],
+      "31": [
+        "शनि प्रदोष व्रत"
+      ]
+    },
+    "अगस्त 2027": {
+      "02": [
+        "श्रावण अमावस्या",
+        "दर्श अमावस्या",
+        "अन्वाधान",
+        "सूर्य ग्रहण (पूर्ण)"
+      ],
+      "03": [
+        "इष्टि",
+        "चंद्र दर्शन"
+      ],
+      "04": [
+        "हरियाली तीज"
+      ],
+      "06": [
+        "नाग पंचमी"
+      ],
+      "07": [
+        "कल्कि जयंती"
+      ],
+      "08": [
+        "भानु सप्तमी"
+      ],
+      "12": [
+        "श्रावण पुत्रदा एकादशी"
+      ],
+      "13": [
+        "वरलक्ष्मी व्रत"
+      ],
+      "14": [
+        "शनि प्रदोष व्रत"
+      ],
+      "17": [
+        "श्रावण पूर्णिमा",
+        "अन्वाधान",
+        "रक्षा बंधन",
+        "राखी",
+        "गायत्री जयंती",
+        "सिंह संक्रांति"
+      ],
+      "18": [
+        "इष्टि"
+      ],
+      "20": [
+        "हेरंब संकष्टी चतुर्थी",
+        "कजरी तीज",
+        "बहुला चतुर्थी"
+      ],
+      "23": [
+        "हल षष्ठी"
+      ],
+      "24": [
+        "कृष्ण जन्माष्टमी"
+      ],
+      "26": [
+        "दही हांडी"
+      ],
+      "28": [
+        "अजा एकादशी",
+        "बछ बारस / द्वादशी"
+      ],
+      "29": [
+        "रवि प्रदोष व्रत"
+      ],
+      "31": [
+        "भाद्रपद अमावस्या",
+        "दर्श अमावस्या",
+        "अन्वाधान",
+        "पिठोरी अमावस्या"
+      ]
+    },
+    "सितंबर 2027": {
+      "01": [
+        "इष्टि"
+      ],
+      "02": [
+        "चंद्र दर्शन"
+      ],
+      "03": [
+        "वराह जयंती",
+        "हरतालिका तीज"
+      ],
+      "04": [
+        "गणेश चतुर्थी",
+        "ऋषि पंचमी"
+      ],
+      "05": [
+        "बलराम जयंती"
+      ],
+      "07": [
+        "ललिता सप्तमी",
+        "दूर्वा अष्टमी"
+      ],
+      "08": [
+        "राधा अष्टमी",
+        "महालक्ष्मी व्रत प्रारंभ"
+      ],
+      "11": [
+        "पार्श्व एकादशी"
+      ],
+      "12": [
+        "वामन जयंती"
+      ],
+      "13": [
+        "सोम प्रदोष व्रत"
+      ],
+      "14": [
+        "गणेश विसर्जन",
+        "अनंत चतुर्दशी"
+      ],
+      "15": [
+        "भाद्रपद पूर्णिमा",
+        "अन्वाधान",
+        "पूर्णिमा श्राद्ध"
+      ],
+      "16": [
+        "इष्टि",
+        "पितृपक्ष प्रारंभ"
+      ],
+      "17": [
+        "कन्या संक्रांति",
+        "विश्वकर्मा पूजा"
+      ],
+      "19": [
+        "विघ्नराज संकष्टी चतुर्थी"
+      ],
+      "23": [
+        "महालक्ष्मी व्रत समाप्त",
+        "जीवित्पुत्रिका व्रत"
+      ],
+      "26": [
+        "इंदिरा एकादशी"
+      ],
+      "27": [
+        "सोम प्रदोष व्रत"
+      ],
+      "29": [
+        "दर्श अमावस्या",
+        "अन्वाधान",
+        "सर्व पितृ अमावस्या"
+      ],
+      "30": [
+        "आश्विन अमावस्या",
+        "इष्टि",
+        "नवरात्रि प्रारंभ",
+        "घटस्थापना"
+      ]
+    },
+    "अक्टूबर 2027": {
+      "02": [
+        "चंद्र दर्शन"
+      ],
+      "04": [
+        "उपांग ललिता व्रत"
+      ],
+      "06": [
+        "सरस्वती आवाहन"
+      ],
+      "07": [
+        "दुर्गा अष्टमी",
+        "सरस्वती पूजा"
+      ],
+      "08": [
+        "महा नवमी"
+      ],
+      "09": [
+        "दुर्गा विसर्जन",
+        "दशहरा",
+        "सरस्वती विसर्जन"
+      ],
+      "11": [
+        "पापांकुशा एकादशी"
+      ],
+      "12": [
+        "भौम प्रदोष व्रत"
+      ],
+      "14": [
+        "कोजागर पूजा",
+        "शरद पूर्णिमा"
+      ],
+      "15": [
+        "आश्विन पूर्णिमा",
+        "अन्वाधान"
+      ],
+      "16": [
+        "इष्टि"
+      ],
+      "18": [
+        "वक्रतुंड संकष्टी चतुर्थी",
+        "करवा चौथ",
+        "तुला संक्रांति"
+      ],
+      "22": [
+        "अहोई अष्टमी",
+        "राधा कुंड स्नान"
+      ],
+      "25": [
+        "रमा एकादशी"
+      ],
+      "26": [
+        "वैष्णव रमा एकादशी",
+        "गोवत्स द्वादशी"
+      ],
+      "27": [
+        "बुध प्रदोष व्रत",
+        "धनतेरस",
+        "काली चौदस"
+      ],
+      "28": [
+        "नरक चतुर्दशी"
+      ],
+      "29": [
+        "कार्तिक अमावस्या",
+        "दर्श अमावस्या",
+        "अन्वाधान",
+        "लक्ष्मी पूजा",
+        "दीपावली"
+      ],
+      "30": [
+        "इष्टि",
+        "गोवर्धन पूजा",
+        "द्युत क्रीड़ा"
+      ],
+      "31": [
+        "चंद्र दर्शन",
+        "भाई दूज"
+      ]
+    },
+    "नवंबर 2027": {
+      "03": [
+        "लाभ पंचमी"
+      ],
+      "04": [
+        "छठ पूजा"
+      ],
+      "06": [
+        "गोपाष्टमी"
+      ],
+      "07": [
+        "अक्षय नवमी"
+      ],
+      "08": [
+        "कंस वध"
+      ],
+      "10": [
+        "देवउठान एकादशी",
+        "भीष्म पंचक प्रारंभ"
+      ],
+      "11": [
+        "गुरु प्रदोष व्रत",
+        "तुलसी विवाह",
+        "विश्वेश्वर व्रत"
+      ],
+      "12": [
+        "वैकुंठ चतुर्दशी",
+        "मणिकर्णिका स्नान"
+      ],
+      "13": [
+        "अन्वाधान",
+        "देव दीपावली"
+      ],
+      "14": [
+        "कार्तिक पूर्णिमा",
+        "इष्टि"
+      ],
+      "17": [
+        "गणाधिप संकष्टी चतुर्थी",
+        "वृश्चिक संक्रांति"
+      ],
+      "21": [
+        "कालभैरव जयंती"
+      ],
+      "24": [
+        "उत्पन्ना एकादशी"
+      ],
+      "25": [
+        "गुरु प्रदोष व्रत"
+      ],
+      "27": [
+        "दर्श अमावस्या",
+        "अन्वाधान"
+      ],
+      "28": [
+        "मार्गशीर्ष अमावस्या",
+        "इष्टि"
+      ],
+      "29": [
+        "चंद्र दर्शन"
+      ]
+    },
+    "दिसंबर 2027": {
+      "03": [
+        "विवाह पंचमी"
+      ],
+      "04": [
+        "चम्पा षष्ठी"
+      ],
+      "05": [
+        "भानु सप्तमी"
+      ],
+      "09": [
+        "मोक्षदा एकादशी",
+        "गीता जयंती"
+      ],
+      "11": [
+        "शनि प्रदोष व्रत"
+      ],
+      "13": [
+        "मार्गशीर्ष पूर्णिमा",
+        "अन्वाधान",
+        "दत्तात्रेय जयंती"
+      ],
+      "14": [
+        "इष्टि"
+      ],
+      "16": [
+        "अखुरथ संकष्टी चतुर्थी",
+        "धनु संक्रांति"
+      ],
+      "19": [
+        "भानु सप्तमी"
+      ],
+      "23": [
+        "सफला एकादशी"
+      ],
+      "25": [
+        "शनि प्रदोष व्रत"
+      ],
+      "27": [
+        "पौष अमावस्या",
+        "दर्श अमावस्या",
+        "अन्वाधान"
+      ],
+      "28": [
+        "इष्टि"
+      ],
+      "29": [
+        "चंद्र दर्शन"
+      ]
+    }
+  }
+}
