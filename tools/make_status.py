@@ -12,6 +12,9 @@ import sys
 
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import symbols  # noqa: E402
+
 REPO = sys.argv[1] if len(sys.argv) > 1 else '/home/user/mantras'
 OUT = sys.argv[2] if len(sys.argv) > 2 else './out'
 BASE_URL = 'https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/'
@@ -244,6 +247,33 @@ def deity(img, name, cx, bottom, max_w, max_h):
     return bottom - im.height
 
 
+def symbol(img, key, cx, bottom, size):
+    """Draws one of our own symbols (see symbols.py), bottom-aligned."""
+    tiro = os.path.join(FONTS, 'TiroDevanagariHindi-Regular.ttf')
+    make = {
+        'trishul': symbols.trishul,
+        'gada': symbols.gada,
+        'lotus': symbols.lotus,
+        'white_lotus': lambda s: symbols.lotus(
+            s, petal=(240, 236, 230), inner=(255, 252, 248)),
+        'flute': symbols.flute_and_feather,
+        'kalash': symbols.kalash,
+        'bow': symbols.bow_arrow,
+        'swastik': symbols.swastik,
+        'chakra': symbols.chakra,
+        'om': lambda s: symbols.glyph(s, 'ॐ', tiro),
+        'shri': lambda s: symbols.glyph(s, 'श्री', tiro),
+        'shyam': lambda s: symbols.glyph(s, 'श्याम', tiro),
+    }[key]
+    im = make(size)
+    sh = Image.new('RGBA', img.size, (0, 0, 0, 0))
+    blk = Image.new('RGBA', im.size, (0, 0, 0, 255))
+    blk.putalpha(im.split()[3].point(lambda v: v * 0.45))
+    sh.paste(blk, (cx - size // 2 + 8, bottom - size + 16), blk)
+    img.alpha_composite(sh.filter(ImageFilter.GaussianBlur(12)))
+    img.alpha_composite(im, (cx - size // 2, bottom - size))
+
+
 def ribbon(img, cy, s, f, color=(120, 20, 10), fg=GOLD_LIGHT):
     w = int(f.getlength(s)) + 120
     d = ImageDraw.Draw(img)
@@ -320,8 +350,8 @@ def deity_status(pal, deity_img, title, sub, mantra, seed=1, with_photo=False,
         cy = bottom - (380 if not with_photo else 330)
         sun(img, W // 2, cy, 170 if not with_photo else 140)
     else:
-        deity(img, deity_img, W // 2, bottom, 760,
-              820 if not with_photo else 700)
+        symbol(img, deity_img, W // 2, bottom,
+               700 if not with_photo else 600)
     slot = None
     if with_photo:
         divider(img, 1300)
@@ -340,12 +370,8 @@ def deity_status(pal, deity_img, title, sub, mantra, seed=1, with_photo=False,
 
 def quote_status(pal, quote, source, seed=1):
     img = base(pal, seed=seed, center_y=960, mandala_r=500)
-    om = Image.open(os.path.join(IMAGES, 'om1.webp')).convert('RGBA')
-    om = om.resize((220, 220), Image.LANCZOS)
-    # Recolour the Om to gold so it sits on any palette.
-    gold = Image.new('RGBA', om.size, GOLD + (255,))
-    gold.putalpha(om.split()[3])
-    om = gold
+    om = symbols.glyph(220, 'ॐ', os.path.join(
+        FONTS, 'TiroDevanagariHindi-Regular.ttf'))
     img.alpha_composite(om, (W // 2 - 110, 220))
     f = font('tiro', 92)
     lines = wrap(quote, f, W - 240)
@@ -366,34 +392,34 @@ def quote_status(pal, quote, source, seed=1):
 
 WEEK = [
     # id, palette, deity, day, mantra
-    ('somvar', 'shiva', 'shiva_ji.webp', 'शुभ सोमवार', 'ॐ नमः शिवाय'),
-    ('mangalvar', 'saffron', 'hanuman_ji.webp', 'शुभ मंगलवार', 'जय श्री हनुमान'),
-    ('budhvar', 'green', 'ganesh_ji.webp', 'शुभ बुधवार', 'ॐ गं गणपतये नमः'),
-    ('guruvar', 'royal', 'vishnuji.webp', 'शुभ गुरुवार',
+    ('somvar', 'shiva', 'trishul', 'शुभ सोमवार', 'ॐ नमः शिवाय'),
+    ('mangalvar', 'saffron', 'gada', 'शुभ मंगलवार', 'जय श्री हनुमान'),
+    ('budhvar', 'green', 'swastik', 'शुभ बुधवार', 'ॐ गं गणपतये नमः'),
+    ('guruvar', 'royal', 'chakra', 'शुभ गुरुवार',
      'ॐ नमो भगवते वासुदेवाय'),
-    ('shukravar', 'pink', 'laxmi_ji.webp', 'शुभ शुक्रवार', 'जय माँ लक्ष्मी'),
-    ('shanivar', 'night', 'shani_dev_ji.webp', 'शुभ शनिवार',
+    ('shukravar', 'pink', 'lotus', 'शुभ शुक्रवार', 'जय माँ लक्ष्मी'),
+    ('shanivar', 'night', 'om', 'शुभ शनिवार',
      'ॐ शं शनैश्चराय नमः'),
-    ('ravivar', 'dawn', 'ram_ji.webp', 'शुभ रविवार', 'जय श्री राम'),
+    ('ravivar', 'dawn', 'bow', 'शुभ रविवार', 'जय श्री राम'),
 ]
 
 DEITIES = [
-    ('shiv', 'shiva', 'shiva_ji.webp', 'हर हर महादेव', 'ॐ नमः शिवाय'),
-    ('hanuman', 'saffron', 'hanuman_ji.webp', 'जय बजरंगबली', 'जय श्री राम'),
-    ('ganesh', 'green', 'ganesh_ji.webp', 'गणपति बप्पा मोरया',
+    ('shiv', 'shiva', 'trishul', 'हर हर महादेव', 'ॐ नमः शिवाय'),
+    ('hanuman', 'saffron', 'gada', 'जय बजरंगबली', 'जय श्री राम'),
+    ('ganesh', 'green', 'swastik', 'गणपति बप्पा मोरया',
      'ॐ गं गणपतये नमः'),
-    ('radhakrishna', 'peacock', 'radha_krishna_ji.webp', 'राधे राधे',
+    ('radhakrishna', 'peacock', 'flute', 'राधे राधे',
      'हरे कृष्ण हरे कृष्ण'),
-    ('ram', 'dawn', 'ram_ji.webp', 'जय श्री राम', 'सियावर रामचंद्र की जय'),
-    ('durga', 'maroon', 'durga_mata_ji.webp', 'जय माता दी', 'ॐ दुं दुर्गायै नमः'),
-    ('laxmi', 'pink', 'laxmi_ji.webp', 'जय माँ लक्ष्मी', 'ॐ श्रीं महालक्ष्म्यै नमः'),
-    ('saraswati', 'royal', 'saraswati_ji.webp', 'जय माँ सरस्वती',
+    ('ram', 'dawn', 'bow', 'जय श्री राम', 'सियावर रामचंद्र की जय'),
+    ('durga', 'maroon', 'kalash', 'जय माता दी', 'ॐ दुं दुर्गायै नमः'),
+    ('laxmi', 'pink', 'lotus', 'जय माँ लक्ष्मी', 'ॐ श्रीं महालक्ष्म्यै नमः'),
+    ('saraswati', 'royal', 'white_lotus', 'जय माँ सरस्वती',
      'ॐ ऐं सरस्वत्यै नमः'),
-    ('khatushyam', 'peacock', 'khatu_shyam_ji.webp', 'जय श्री श्याम',
+    ('khatushyam', 'peacock', 'shyam', 'जय श्री श्याम',
      'हारे का सहारा'),
-    ('jagannath', 'saffron', 'jaggnath_ji.webp', 'जय जगन्नाथ',
+    ('jagannath', 'saffron', 'chakra', 'जय जगन्नाथ',
      'जय जगन्नाथ स्वामी'),
-    ('vishnu', 'royal', 'vishnuji.webp', 'ॐ नमो नारायणाय',
+    ('vishnu', 'royal', 'chakra', 'ॐ नमो नारायणाय',
      'ॐ नमो भगवते वासुदेवाय'),
 ]
 
@@ -405,38 +431,38 @@ FESTIVALS = [
        'ॐ सूर्याय नमः', {})]),
     ('vasant_panchami', 'Vasant Panchami', 'वसंत पंचमी',
      ['Vasant Panchami', 'Basant Panchami', 'वसंत पंचमी', 'बसंत पंचमी'],
-     [('royal', 'saraswati_ji.webp', 'वसंत पंचमी', 'की हार्दिक शुभकामनाएँ',
+     [('royal', 'white_lotus', 'वसंत पंचमी', 'की हार्दिक शुभकामनाएँ',
        'ॐ ऐं सरस्वत्यै नमः', {})]),
     ('mahashivratri', 'Maha Shivratri', 'महाशिवरात्रि',
      ['Maha Shivaratri', 'Mahashivratri', 'महाशिवरात्रि', 'महा शिवरात्रि'],
-     [('shiva', 'shiva_ji.webp', 'महाशिवरात्रि', 'की हार्दिक शुभकामनाएँ',
+     [('shiva', 'trishul', 'महाशिवरात्रि', 'की हार्दिक शुभकामनाएँ',
        'हर हर महादेव', dict(night=True))]),
     ('holi', 'Holi', 'होली', ['Holi', 'होली', 'Holika Dahan', 'होलिका दहन'],
-     [('pink', 'radha_krishna_ji.webp', 'हैप्पी होली', 'रंगों के त्योहार की शुभकामनाएँ',
+     [('pink', 'flute', 'हैप्पी होली', 'रंगों के त्योहार की शुभकामनाएँ',
        'राधे राधे', dict(festive=True))]),
     ('navratri', 'Navratri', 'नवरात्रि',
      ['Navratri', 'नवरात्रि', 'Ghatasthapana', 'घटस्थापना'],
-     [('maroon', 'durga_mata_ji.webp', 'शुभ नवरात्रि', 'माँ दुर्गा आपकी रक्षा करें',
+     [('maroon', 'kalash', 'शुभ नवरात्रि', 'माँ दुर्गा आपकी रक्षा करें',
        'जय माता दी', dict(festive=True))]),
     ('ram_navami', 'Ram Navami', 'राम नवमी', ['Rama Navami', 'Ram Navami',
                                              'राम नवमी'],
-     [('dawn', 'ram_ji.webp', 'राम नवमी', 'की हार्दिक शुभकामनाएँ',
+     [('dawn', 'bow', 'राम नवमी', 'की हार्दिक शुभकामनाएँ',
        'जय श्री राम', dict(festive=True))]),
     ('hanuman_jayanti', 'Hanuman Jayanti', 'हनुमान जयंती',
      ['Hanuman Jayanti', 'हनुमान जयंती'],
-     [('saffron', 'hanuman_ji.webp', 'हनुमान जयंती', 'की हार्दिक शुभकामनाएँ',
+     [('saffron', 'gada', 'हनुमान जयंती', 'की हार्दिक शुभकामनाएँ',
        'जय बजरंगबली', dict(festive=True))]),
     ('janmashtami', 'Janmashtami', 'जन्माष्टमी',
      ['Janmashtami', 'जन्माष्टमी', 'Krishna Janmashtami'],
-     [('peacock', 'radha_krishna_ji.webp', 'जन्माष्टमी', 'की हार्दिक शुभकामनाएँ',
+     [('peacock', 'flute', 'जन्माष्टमी', 'की हार्दिक शुभकामनाएँ',
        'नंद के आनंद भयो', dict(night=True))]),
     ('ganesh_chaturthi', 'Ganesh Chaturthi', 'गणेश चतुर्थी',
      ['Ganesh Chaturthi', 'गणेश चतुर्थी', 'Vinayaka Chaturthi'],
-     [('green', 'ganesh_ji.webp', 'गणेश चतुर्थी', 'की हार्दिक शुभकामनाएँ',
+     [('green', 'swastik', 'गणेश चतुर्थी', 'की हार्दिक शुभकामनाएँ',
        'गणपति बप्पा मोरया', dict(festive=True))]),
     ('diwali', 'Diwali', 'दीपावली', ['Diwali', 'दीपावली', 'Lakshmi Puja',
                                      'लक्ष्मी पूजा', 'Deepavali'],
-     [('maroon', 'laxmi_ji.webp', 'शुभ दीपावली', 'माँ लक्ष्मी की कृपा बनी रहे',
+     [('maroon', 'lotus', 'शुभ दीपावली', 'माँ लक्ष्मी की कृपा बनी रहे',
        'ॐ श्रीं महालक्ष्म्यै नमः', dict(festive=True))]),
 ]
 
@@ -487,9 +513,9 @@ def main():
     # Good night.
     frames = []
     for i, (dimg, mantra) in enumerate([
-            ('radha_krishna_ji.webp', 'राधे राधे'),
-            ('shiva_ji.webp', 'ॐ नमः शिवाय'),
-            ('ram_ji.webp', 'जय श्री राम')]):
+            ('flute', 'राधे राधे'),
+            ('trishul', 'ॐ नमः शिवाय'),
+            ('bow', 'जय श्री राम')]):
         img, _ = deity_status('night', dimg, 'शुभ रात्रि', 'प्रभु आपकी रक्षा करें',
                               mantra, seed=40 + i, night=True)
         frames.append(save('shubh_ratri', 'shubh_ratri_%d' % (i + 1), img,
@@ -544,16 +570,16 @@ def main():
 if __name__ == '__main__':
     if len(sys.argv) > 3:  # quick preview of one design
         os.makedirs(OUT, exist_ok=True)
-        img, _ = deity_status('shiva', 'shiva_ji.webp', 'सुप्रभात', 'शुभ सोमवार',
+        img, _ = deity_status('shiva', 'trishul', 'सुप्रभात', 'शुभ सोमवार',
                               'ॐ नमः शिवाय')
         img.save(os.path.join(OUT, 'p1.jpg'))
-        img, _ = deity_status('saffron', 'hanuman_ji.webp', 'शुभ मंगलवार',
+        img, _ = deity_status('saffron', 'gada', 'शुभ मंगलवार',
                               'आपका दिन मंगलमय हो', 'जय श्री हनुमान',
                               with_photo=True)
         img.save(os.path.join(OUT, 'p2.jpg'))
         img, _ = quote_status('maroon', QUOTES[0][0], QUOTES[0][1])
         img.save(os.path.join(OUT, 'p3.jpg'))
-        img, _ = deity_status('maroon', 'durga_mata_ji.webp', 'शुभ नवरात्रि',
+        img, _ = deity_status('maroon', 'kalash', 'शुभ नवरात्रि',
                               'माँ दुर्गा आपकी रक्षा करें', 'जय माता दी',
                               festive=True)
         img.save(os.path.join(OUT, 'p4.jpg'))
