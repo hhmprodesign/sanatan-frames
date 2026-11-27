@@ -2,7 +2,7 @@
   "metadata": {
     "year": 2027,
     "verified": false,
-    "source": "Computed from astronomical positions for New Delhi (Lahiri ayanamsa) using the same rules as the 2026 data. Check dates against a printed panchang before relying on them."
+    "source": "Computed from astronomical positions for New Delhi (Lahiri ayanamsa), then corrected against Drik Panchang (New Delhi): main festivals for all months and every entry for May and August checked. Pradosh, Sankashti, Chandra Darshana, Anvadhan, Ishti and other minor days in the other months are unchecked."
   },
   "english": {
     "January 2027": {
@@ -23,12 +23,15 @@
       "09": [
         "Chandra Darshana"
       ],
-      "14": [
+      "15": [
         "Makara Sankranti",
         "Pongal"
       ],
-      "19": [
+      "18": [
         "Pausha Putrada Ekadashi"
+      ],
+      "19": [
+        "Gauna Pausha Putrada Ekadashi"
       ],
       "20": [
         "Budha Pradosh Vrat"
@@ -86,19 +89,16 @@
         "Anvadhan"
       ],
       "21": [
-        "Ishti"
+        "Ishti",
+        "Lunar Eclipse (Penumbral)"
       ],
       "23": [
         "Dwijapriya Sankashti"
       ]
     },
     "March 2027": {
-      "03": [
-        "Vijaya Ekadashi"
-      ],
       "04": [
-        "Gauna Vijaya Ekadashi",
-        "Vaishnava Vijaya Ekadashi"
+        "Vijaya Ekadashi"
       ],
       "05": [
         "Shukra Pradosh Vrat"
@@ -129,16 +129,18 @@
       "20": [
         "Shani Pradosh Vrat"
       ],
+      "21": [
+        "Chhoti Holi",
+        "Holika Dahan"
+      ],
       "22": [
         "Phalguna Purnima",
         "Anvadhan",
-        "Chhoti Holi",
-        "Holika Dahan",
-        "Vasanta Purnima"
+        "Vasanta Purnima",
+        "Holi"
       ],
       "23": [
-        "Ishti",
-        "Holi"
+        "Ishti"
       ],
       "24": [
         "Bhai Dooj",
@@ -196,11 +198,11 @@
         "Solar New Year"
       ],
       "15": [
-        "Rama Navami - Smarta"
+        "Rama Navami - Smarta",
+        "Swaminarayan Jayanti"
       ],
       "16": [
-        "Rama Navami - ISKCON",
-        "Swaminarayan Jayanti"
+        "Rama Navami - ISKCON"
       ],
       "17": [
         "Kamada Ekadashi"
@@ -237,8 +239,10 @@
         "Ishti",
         "Chandra Darshana"
       ],
+      "08": [
+        "Parashurama Jayanti"
+      ],
       "09": [
-        "Parashurama Jayanti",
         "Akshaya Tritiya"
       ],
       "12": [
@@ -259,10 +263,12 @@
       "18": [
         "Narasimha Jayanti"
       ],
+      "19": [
+        "Kurma Jayanti"
+      ],
       "20": [
         "Vaishakha Purnima",
         "Anvadhan",
-        "Kurma Jayanti",
         "Buddha Purnima"
       ],
       "21": [
@@ -413,20 +419,23 @@
         "Raksha Bandhan",
         "Rakhi",
         "Gayatri Jayanti",
-        "Simha Sankranti"
+        "Simha Sankranti",
+        "Lunar Eclipse (Penumbral)"
       ],
       "18": [
         "Ishti"
       ],
       "20": [
         "Heramba Sankashti",
-        "Kajari Teej",
+        "Kajari Teej"
+      ],
+      "21": [
         "Bahula Chaturthi"
       ],
       "23": [
         "Hala Shashthi"
       ],
-      "24": [
+      "25": [
         "Krishna Janmashtami"
       ],
       "26": [
@@ -459,9 +468,10 @@
       ],
       "04": [
         "Ganesh Chaturthi",
-        "Rishi Panchami"
+        "Rishi Panchami",
+        "Agastya Arghya"
       ],
-      "05": [
+      "06": [
         "Balarama Jayanti"
       ],
       "07": [
@@ -644,7 +654,7 @@
         "Ganadhipa Sankashti",
         "Vrishchika Sankranti"
       ],
-      "21": [
+      "20": [
         "Kalabhairav Jayanti"
       ],
       "24": [
@@ -735,12 +745,15 @@
       "09": [
         "चंद्र दर्शन"
       ],
-      "14": [
+      "15": [
         "मकर संक्रांति",
         "पोंगल"
       ],
-      "19": [
+      "18": [
         "पौष पुत्रदा एकादशी"
+      ],
+      "19": [
+        "गौण पौष पुत्रदा एकादशी"
       ],
       "20": [
         "बुध प्रदोष व्रत"
@@ -798,19 +811,16 @@
         "अन्वाधान"
       ],
       "21": [
-        "इष्टि"
+        "इष्टि",
+        "चंद्र ग्रहण (उपच्छाया)"
       ],
       "23": [
         "द्विजप्रिय संकष्टी चतुर्थी"
       ]
     },
     "मार्च 2027": {
-      "03": [
-        "विजया एकादशी"
-      ],
       "04": [
-        "गौण विजया एकादशी",
-        "वैष्णव विजया एकादशी"
+        "विजया एकादशी"
       ],
       "05": [
         "शुक्र प्रदोष व्रत"
@@ -841,16 +851,18 @@
       "20": [
         "शनि प्रदोष व्रत"
       ],
+      "21": [
+        "छोटी होली",
+        "होलिका दहन"
+      ],
       "22": [
         "फाल्गुन पूर्णिमा",
         "अन्वाधान",
-        "छोटी होली",
-        "होलिका दहन",
-        "वसंत पूर्णिमा"
+        "वसंत पूर्णिमा",
+        "होली"
       ],
       "23": [
-        "इष्टि",
-        "होली"
+        "इष्टि"
       ],
       "24": [
         "भाई दूज",
@@ -908,11 +920,11 @@
         "सौर नववर्ष"
       ],
       "15": [
-        "राम नवमी (स्मार्त)"
+        "राम नवमी (स्मार्त)",
+        "स्वामीनारायण जयंती"
       ],
       "16": [
-        "राम नवमी (इस्कॉन)",
-        "स्वामीनारायण जयंती"
+        "राम नवमी (इस्कॉन)"
       ],
       "17": [
         "कामदा एकादशी"
@@ -949,8 +961,10 @@
         "इष्टि",
         "चंद्र दर्शन"
       ],
+      "08": [
+        "परशुराम जयंती"
+      ],
       "09": [
-        "परशुराम जयंती",
         "अक्षय तृतीया"
       ],
       "12": [
@@ -971,10 +985,12 @@
       "18": [
         "नृसिंह जयंती"
       ],
+      "19": [
+        "कूर्म जयंती"
+      ],
       "20": [
         "वैशाख पूर्णिमा",
         "अन्वाधान",
-        "कूर्म जयंती",
         "बुद्ध पूर्णिमा"
       ],
       "21": [
@@ -1125,20 +1141,23 @@
         "रक्षा बंधन",
         "राखी",
         "गायत्री जयंती",
-        "सिंह संक्रांति"
+        "सिंह संक्रांति",
+        "चंद्र ग्रहण (उपच्छाया)"
       ],
       "18": [
         "इष्टि"
       ],
       "20": [
         "हेरंब संकष्टी चतुर्थी",
-        "कजरी तीज",
+        "कजरी तीज"
+      ],
+      "21": [
         "बहुला चतुर्थी"
       ],
       "23": [
         "हल षष्ठी"
       ],
-      "24": [
+      "25": [
         "कृष्ण जन्माष्टमी"
       ],
       "26": [
@@ -1171,9 +1190,10 @@
       ],
       "04": [
         "गणेश चतुर्थी",
-        "ऋषि पंचमी"
+        "ऋषि पंचमी",
+        "अगस्त्य अर्घ्य"
       ],
-      "05": [
+      "06": [
         "बलराम जयंती"
       ],
       "07": [
@@ -1356,7 +1376,7 @@
         "गणाधिप संकष्टी चतुर्थी",
         "वृश्चिक संक्रांति"
       ],
-      "21": [
+      "20": [
         "कालभैरव जयंती"
       ],
       "24": [
