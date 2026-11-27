@@ -1,422 +1,883 @@
 {
   "categories": [
     {
+      "id": "suprabhat",
+      "titleEnglish": "Good Morning",
+      "titleHindi": "सुप्रभात",
+      "frames": [
+        {
+          "id": "suprabhat_somvar",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/suprabhat/suprabhat_somvar.jpg",
+          "tags": [
+            "suprabhat",
+            "good morning",
+            "सुप्रभात",
+            "शुभ सोमवार",
+            "ॐ नमः शिवाय"
+          ],
+          "weekday": 1
+        },
+        {
+          "id": "photo_somvar",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/suprabhat/photo_somvar.jpg",
+          "tags": [
+            "suprabhat",
+            "photo",
+            "फोटो",
+            "शुभ सोमवार",
+            "ॐ नमः शिवाय"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          },
+          "weekday": 1
+        },
+        {
+          "id": "suprabhat_mangalvar",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/suprabhat/suprabhat_mangalvar.jpg",
+          "tags": [
+            "suprabhat",
+            "good morning",
+            "सुप्रभात",
+            "शुभ मंगलवार",
+            "जय श्री हनुमान"
+          ],
+          "weekday": 2
+        },
+        {
+          "id": "photo_mangalvar",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/suprabhat/photo_mangalvar.jpg",
+          "tags": [
+            "suprabhat",
+            "photo",
+            "फोटो",
+            "शुभ मंगलवार",
+            "जय श्री हनुमान"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          },
+          "weekday": 2
+        },
+        {
+          "id": "suprabhat_budhvar",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/suprabhat/suprabhat_budhvar.jpg",
+          "tags": [
+            "suprabhat",
+            "good morning",
+            "सुप्रभात",
+            "शुभ बुधवार",
+            "ॐ गं गणपतये नमः"
+          ],
+          "weekday": 3
+        },
+        {
+          "id": "photo_budhvar",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/suprabhat/photo_budhvar.jpg",
+          "tags": [
+            "suprabhat",
+            "photo",
+            "फोटो",
+            "शुभ बुधवार",
+            "ॐ गं गणपतये नमः"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          },
+          "weekday": 3
+        },
+        {
+          "id": "suprabhat_guruvar",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/suprabhat/suprabhat_guruvar.jpg",
+          "tags": [
+            "suprabhat",
+            "good morning",
+            "सुप्रभात",
+            "शुभ गुरुवार",
+            "ॐ नमो भगवते वासुदेवाय"
+          ],
+          "weekday": 4
+        },
+        {
+          "id": "photo_guruvar",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/suprabhat/photo_guruvar.jpg",
+          "tags": [
+            "suprabhat",
+            "photo",
+            "फोटो",
+            "शुभ गुरुवार",
+            "ॐ नमो भगवते वासुदेवाय"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          },
+          "weekday": 4
+        },
+        {
+          "id": "suprabhat_shukravar",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/suprabhat/suprabhat_shukravar.jpg",
+          "tags": [
+            "suprabhat",
+            "good morning",
+            "सुप्रभात",
+            "शुभ शुक्रवार",
+            "जय माँ लक्ष्मी"
+          ],
+          "weekday": 5
+        },
+        {
+          "id": "photo_shukravar",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/suprabhat/photo_shukravar.jpg",
+          "tags": [
+            "suprabhat",
+            "photo",
+            "फोटो",
+            "शुभ शुक्रवार",
+            "जय माँ लक्ष्मी"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          },
+          "weekday": 5
+        },
+        {
+          "id": "suprabhat_shanivar",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/suprabhat/suprabhat_shanivar.jpg",
+          "tags": [
+            "suprabhat",
+            "good morning",
+            "सुप्रभात",
+            "शुभ शनिवार",
+            "ॐ शं शनैश्चराय नमः"
+          ],
+          "weekday": 6
+        },
+        {
+          "id": "photo_shanivar",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/suprabhat/photo_shanivar.jpg",
+          "tags": [
+            "suprabhat",
+            "photo",
+            "फोटो",
+            "शुभ शनिवार",
+            "ॐ शं शनैश्चराय नमः"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          },
+          "weekday": 6
+        },
+        {
+          "id": "suprabhat_ravivar",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/suprabhat/suprabhat_ravivar.jpg",
+          "tags": [
+            "suprabhat",
+            "good morning",
+            "सुप्रभात",
+            "शुभ रविवार",
+            "जय श्री राम"
+          ],
+          "weekday": 7
+        },
+        {
+          "id": "photo_ravivar",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/suprabhat/photo_ravivar.jpg",
+          "tags": [
+            "suprabhat",
+            "photo",
+            "फोटो",
+            "शुभ रविवार",
+            "जय श्री राम"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          },
+          "weekday": 7
+        }
+      ]
+    },
+    {
+      "id": "shubh_ratri",
+      "titleEnglish": "Good Night",
+      "titleHindi": "शुभ रात्रि",
+      "frames": [
+        {
+          "id": "shubh_ratri_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/shubh_ratri/shubh_ratri_1.jpg",
+          "tags": [
+            "good night",
+            "shubh ratri",
+            "शुभ रात्रि"
+          ]
+        },
+        {
+          "id": "shubh_ratri_2",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/shubh_ratri/shubh_ratri_2.jpg",
+          "tags": [
+            "good night",
+            "shubh ratri",
+            "शुभ रात्रि"
+          ]
+        },
+        {
+          "id": "shubh_ratri_3",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/shubh_ratri/shubh_ratri_3.jpg",
+          "tags": [
+            "good night",
+            "shubh ratri",
+            "शुभ रात्रि"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bhagwan",
+      "titleEnglish": "Deities",
+      "titleHindi": "भगवान",
+      "frames": [
+        {
+          "id": "shiv",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/bhagwan/shiv.jpg",
+          "tags": [
+            "shiv",
+            "हर हर महादेव",
+            "ॐ नमः शिवाय"
+          ]
+        },
+        {
+          "id": "shiv_photo",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/bhagwan/shiv_photo.jpg",
+          "tags": [
+            "shiv",
+            "हर हर महादेव",
+            "photo",
+            "फोटो"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          }
+        },
+        {
+          "id": "hanuman",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/bhagwan/hanuman.jpg",
+          "tags": [
+            "hanuman",
+            "जय बजरंगबली",
+            "जय श्री राम"
+          ]
+        },
+        {
+          "id": "hanuman_photo",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/bhagwan/hanuman_photo.jpg",
+          "tags": [
+            "hanuman",
+            "जय बजरंगबली",
+            "photo",
+            "फोटो"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          }
+        },
+        {
+          "id": "ganesh",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/bhagwan/ganesh.jpg",
+          "tags": [
+            "ganesh",
+            "गणपति बप्पा मोरया",
+            "ॐ गं गणपतये नमः"
+          ]
+        },
+        {
+          "id": "ganesh_photo",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/bhagwan/ganesh_photo.jpg",
+          "tags": [
+            "ganesh",
+            "गणपति बप्पा मोरया",
+            "photo",
+            "फोटो"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          }
+        },
+        {
+          "id": "radhakrishna",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/bhagwan/radhakrishna.jpg",
+          "tags": [
+            "radhakrishna",
+            "राधे राधे",
+            "हरे कृष्ण हरे कृष्ण"
+          ]
+        },
+        {
+          "id": "radhakrishna_photo",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/bhagwan/radhakrishna_photo.jpg",
+          "tags": [
+            "radhakrishna",
+            "राधे राधे",
+            "photo",
+            "फोटो"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          }
+        },
+        {
+          "id": "ram",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/bhagwan/ram.jpg",
+          "tags": [
+            "ram",
+            "जय श्री राम",
+            "सियावर रामचंद्र की जय"
+          ]
+        },
+        {
+          "id": "durga",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/bhagwan/durga.jpg",
+          "tags": [
+            "durga",
+            "जय माता दी",
+            "ॐ दुं दुर्गायै नमः"
+          ]
+        },
+        {
+          "id": "durga_photo",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/bhagwan/durga_photo.jpg",
+          "tags": [
+            "durga",
+            "जय माता दी",
+            "photo",
+            "फोटो"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          }
+        },
+        {
+          "id": "laxmi",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/bhagwan/laxmi.jpg",
+          "tags": [
+            "laxmi",
+            "जय माँ लक्ष्मी",
+            "ॐ श्रीं महालक्ष्म्यै नमः"
+          ]
+        },
+        {
+          "id": "saraswati",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/bhagwan/saraswati.jpg",
+          "tags": [
+            "saraswati",
+            "जय माँ सरस्वती",
+            "ॐ ऐं सरस्वत्यै नमः"
+          ]
+        },
+        {
+          "id": "khatushyam",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/bhagwan/khatushyam.jpg",
+          "tags": [
+            "khatushyam",
+            "जय श्री श्याम",
+            "हारे का सहारा"
+          ]
+        },
+        {
+          "id": "jagannath",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/bhagwan/jagannath.jpg",
+          "tags": [
+            "jagannath",
+            "जय जगन्नाथ",
+            "जय जगन्नाथ स्वामी"
+          ]
+        },
+        {
+          "id": "vishnu",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/bhagwan/vishnu.jpg",
+          "tags": [
+            "vishnu",
+            "ॐ नमो नारायणाय",
+            "ॐ नमो भगवते वासुदेवाय"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "suvichar",
+      "titleEnglish": "Quotes",
+      "titleHindi": "सुविचार",
+      "frames": [
+        {
+          "id": "suvichar_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/suvichar/suvichar_1.jpg",
+          "tags": [
+            "quote",
+            "suvichar",
+            "सुविचार",
+            "श्रीमद्भगवद्गीता 2.47"
+          ]
+        },
+        {
+          "id": "suvichar_2",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/suvichar/suvichar_2.jpg",
+          "tags": [
+            "quote",
+            "suvichar",
+            "सुविचार",
+            "संत रविदास"
+          ]
+        },
+        {
+          "id": "suvichar_3",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/suvichar/suvichar_3.jpg",
+          "tags": [
+            "quote",
+            "suvichar",
+            "सुविचार",
+            "श्रीमद्भगवद्गीता का सार"
+          ]
+        },
+        {
+          "id": "suvichar_4",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/suvichar/suvichar_4.jpg",
+          "tags": [
+            "quote",
+            "suvichar",
+            "सुविचार",
+            "संत कबीर"
+          ]
+        },
+        {
+          "id": "suvichar_5",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/suvichar/suvichar_5.jpg",
+          "tags": [
+            "quote",
+            "suvichar",
+            "सुविचार",
+            "श्रीमद्भगवद्गीता 2.50"
+          ]
+        },
+        {
+          "id": "suvichar_6",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/suvichar/suvichar_6.jpg",
+          "tags": [
+            "quote",
+            "suvichar",
+            "सुविचार",
+            "सुविचार"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "makar_sankranti",
+      "titleEnglish": "Makar Sankranti",
+      "titleHindi": "मकर संक्रांति",
+      "festivals": [
+        "Makar Sankranti",
+        "मकर संक्रांति",
+        "Pongal",
+        "Lohri"
+      ],
+      "frames": [
+        {
+          "id": "makar_sankranti_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/makar_sankranti/makar_sankranti_1.jpg",
+          "tags": [
+            "makar sankranti",
+            "मकर संक्रांति",
+            "ॐ सूर्याय नमः"
+          ]
+        },
+        {
+          "id": "makar_sankranti_photo_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/makar_sankranti/makar_sankranti_photo_1.jpg",
+          "tags": [
+            "makar sankranti",
+            "मकर संक्रांति",
+            "photo",
+            "फोटो"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vasant_panchami",
+      "titleEnglish": "Vasant Panchami",
+      "titleHindi": "वसंत पंचमी",
+      "festivals": [
+        "Vasant Panchami",
+        "Basant Panchami",
+        "वसंत पंचमी",
+        "बसंत पंचमी",
+        "Saraswati Puja"
+      ],
+      "frames": [
+        {
+          "id": "vasant_panchami_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/vasant_panchami/vasant_panchami_1.jpg",
+          "tags": [
+            "vasant panchami",
+            "वसंत पंचमी",
+            "ॐ ऐं सरस्वत्यै नमः"
+          ]
+        },
+        {
+          "id": "vasant_panchami_photo_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/vasant_panchami/vasant_panchami_photo_1.jpg",
+          "tags": [
+            "vasant panchami",
+            "वसंत पंचमी",
+            "photo",
+            "फोटो"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mahashivratri",
+      "titleEnglish": "Maha Shivratri",
+      "titleHindi": "महाशिवरात्रि",
+      "festivals": [
+        "Maha Shivaratri",
+        "Mahashivratri",
+        "महाशिवरात्रि",
+        "महा शिवरात्रि"
+      ],
+      "frames": [
+        {
+          "id": "mahashivratri_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/mahashivratri/mahashivratri_1.jpg",
+          "tags": [
+            "maha shivratri",
+            "महाशिवरात्रि",
+            "हर हर महादेव"
+          ]
+        },
+        {
+          "id": "mahashivratri_photo_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/mahashivratri/mahashivratri_photo_1.jpg",
+          "tags": [
+            "maha shivratri",
+            "महाशिवरात्रि",
+            "photo",
+            "फोटो"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          }
+        }
+      ]
+    },
+    {
+      "id": "holi",
+      "titleEnglish": "Holi",
+      "titleHindi": "होली",
+      "festivals": [
+        "Holi",
+        "होली",
+        "Holika Dahan",
+        "होलिका दहन"
+      ],
+      "frames": [
+        {
+          "id": "holi_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/holi/holi_1.jpg",
+          "tags": [
+            "holi",
+            "होली",
+            "राधे राधे"
+          ]
+        },
+        {
+          "id": "holi_photo_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/holi/holi_photo_1.jpg",
+          "tags": [
+            "holi",
+            "होली",
+            "photo",
+            "फोटो"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          }
+        }
+      ]
+    },
+    {
       "id": "navratri",
       "titleEnglish": "Navratri",
       "titleHindi": "नवरात्रि",
+      "festivals": [
+        "Navratri",
+        "नवरात्रि",
+        "Ghatasthapana",
+        "घटस्थापना"
+      ],
       "frames": [
         {
           "id": "navratri_1",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri1.png",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/navratri/navratri_1.jpg",
           "tags": [
             "navratri",
-            "durga",
-            "devi",
             "नवरात्रि",
-            "दुर्गा माता"
+            "जय माता दी"
           ]
         },
         {
-          "id": "navratri_3",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri3.png",
+          "id": "navratri_photo_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/navratri/navratri_photo_1.jpg",
           "tags": [
             "navratri",
-            "durga",
-            "devi",
             "नवरात्रि",
-            "दुर्गा माता"
-          ]
-        },
-        {
-          "id": "navratri_15",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri15.png",
-          "tags": [
-            "navratri",
-            "durga",
-            "devi",
-            "नवरात्रि",
-            "दुर्गा माता"
-          ]
-        },
-        {
-          "id": "navratri_32",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri32.png",
-          "tags": [
-            "navratri",
-            "durga",
-            "devi",
-            "नवरात्रि",
-            "दुर्गा माता"
-          ]
-        },
-        {
-          "id": "navratri_33",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/navratri/navratri33.png",
-          "tags": [
-            "navratri",
-            "durga",
-            "devi",
-            "नवरात्रि",
-            "दुर्गा माता"
-          ]
+            "photo",
+            "फोटो"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          }
         }
       ]
     },
     {
-      "id": "quotes",
-      "titleEnglish": "Quote",
-      "titleHindi": "कोट्स",
+      "id": "ram_navami",
+      "titleEnglish": "Ram Navami",
+      "titleHindi": "राम नवमी",
+      "festivals": [
+        "Rama Navami",
+        "Ram Navami",
+        "राम नवमी"
+      ],
       "frames": [
         {
-          "id": "quote_27",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes27.png",
+          "id": "ram_navami_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/ram_navami/ram_navami_1.jpg",
           "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
+            "ram navami",
+            "राम नवमी",
+            "जय श्री राम"
           ]
         },
         {
-          "id": "quote_17",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes17.png",
+          "id": "ram_navami_photo_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/ram_navami/ram_navami_photo_1.jpg",
           "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_4",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes4.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_23",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes23.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_9",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes9.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_33",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes33.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_12",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes12.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_28",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes28.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_2",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes2.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_35",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes35.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_7",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes7.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_30",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes30.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_15",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes15.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_25",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes25.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_10",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes10.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_21",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes21.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_6",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes6.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_1",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes1.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_19",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes19.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_14",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes14.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_31",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes31.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_5",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes5.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_34",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes34.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_8",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes8.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_26",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes26.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_13",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes13.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_3",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes3.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_29",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes29.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_18",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes18.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_11",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes11.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_20",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes20.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_24",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes24.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_36",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes36.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_22",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes22.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_32",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes32.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
-        },
-        {
-          "id": "quote_16",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/quotes/quotes16.png",
-          "tags": [
-            "quote",
-            "good morning",
-            "कोट्स"
-          ]
+            "ram navami",
+            "राम नवमी",
+            "photo",
+            "फोटो"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          }
         }
       ]
     },
     {
-      "id": "darshan",
-      "titleEnglish": "Darshan",
-      "titleHindi": "दर्शन",
+      "id": "hanuman_jayanti",
+      "titleEnglish": "Hanuman Jayanti",
+      "titleHindi": "हनुमान जयंती",
+      "festivals": [
+        "Hanuman Jayanti",
+        "हनुमान जयंती"
+      ],
       "frames": [
         {
-          "id": "darshan_1",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/darshan/mahakalji.png",
+          "id": "hanuman_jayanti_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/hanuman_jayanti/hanuman_jayanti_1.jpg",
           "tags": [
-            "mahakal",
-            "darshan",
-            "दर्शन",
-            "shiv"
+            "hanuman jayanti",
+            "हनुमान जयंती",
+            "जय बजरंगबली"
           ]
         },
         {
-          "id": "darshan_2",
-          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/frames/darshan/somnathji.png",
+          "id": "hanuman_jayanti_photo_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/hanuman_jayanti/hanuman_jayanti_photo_1.jpg",
           "tags": [
-            "somnath",
-            "darshan",
-            "दर्शन",
-            "shiv"
+            "hanuman jayanti",
+            "हनुमान जयंती",
+            "photo",
+            "फोटो"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          }
+        }
+      ]
+    },
+    {
+      "id": "janmashtami",
+      "titleEnglish": "Janmashtami",
+      "titleHindi": "जन्माष्टमी",
+      "festivals": [
+        "Janmashtami",
+        "जन्माष्टमी",
+        "Krishna Janmashtami"
+      ],
+      "frames": [
+        {
+          "id": "janmashtami_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/janmashtami/janmashtami_1.jpg",
+          "tags": [
+            "janmashtami",
+            "जन्माष्टमी",
+            "नंद के आनंद भयो"
           ]
+        },
+        {
+          "id": "janmashtami_photo_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/janmashtami/janmashtami_photo_1.jpg",
+          "tags": [
+            "janmashtami",
+            "जन्माष्टमी",
+            "photo",
+            "फोटो"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ganesh_chaturthi",
+      "titleEnglish": "Ganesh Chaturthi",
+      "titleHindi": "गणेश चतुर्थी",
+      "festivals": [
+        "Ganesh Chaturthi",
+        "गणेश चतुर्थी",
+        "Vinayaka Chaturthi"
+      ],
+      "frames": [
+        {
+          "id": "ganesh_chaturthi_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/ganesh_chaturthi/ganesh_chaturthi_1.jpg",
+          "tags": [
+            "ganesh chaturthi",
+            "गणेश चतुर्थी",
+            "गणपति बप्पा मोरया"
+          ]
+        },
+        {
+          "id": "ganesh_chaturthi_photo_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/ganesh_chaturthi/ganesh_chaturthi_photo_1.jpg",
+          "tags": [
+            "ganesh chaturthi",
+            "गणेश चतुर्थी",
+            "photo",
+            "फोटो"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          }
+        }
+      ]
+    },
+    {
+      "id": "diwali",
+      "titleEnglish": "Diwali",
+      "titleHindi": "दीपावली",
+      "festivals": [
+        "Diwali",
+        "दीपावली",
+        "Lakshmi Puja",
+        "लक्ष्मी पूजा",
+        "Deepavali"
+      ],
+      "frames": [
+        {
+          "id": "diwali_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/diwali/diwali_1.jpg",
+          "tags": [
+            "diwali",
+            "दीपावली",
+            "ॐ श्रीं महालक्ष्म्यै नमः"
+          ]
+        },
+        {
+          "id": "diwali_photo_1",
+          "imageUrl": "https://raw.githubusercontent.com/hhmprodesign/sanatan-frames/main/status/diwali/diwali_photo_1.jpg",
+          "tags": [
+            "diwali",
+            "दीपावली",
+            "photo",
+            "फोटो"
+          ],
+          "photo": {
+            "x": 0.5,
+            "y": 0.7917,
+            "size": 0.2778,
+            "shape": "circle"
+          }
         }
       ]
     }
